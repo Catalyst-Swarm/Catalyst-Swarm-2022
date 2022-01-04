@@ -1,8 +1,6 @@
 # Explore & Connect
 
-## We are a respectful revolution.
-
-We are a respectful revolution, a silent evolution, we are everyone and no one, we are everywhere and nowhere.
+## We are a respectful revolution, a silent evolution, we are everyone and no one, we are everywhere and nowhere.
 
 Swarm is everybody who identifies with the vision to share ideas, visions and ambitions and to collaborate on building the future society of Cardano. We are representatives of the idea of an open, inclusive and diverse network of doers and visionairs, working hand in hand to add value to the Cardano Ecosystem
 
@@ -15,4 +13,3 @@ We are exploring a world where anyone, anywhere may express his or her beliefs, 
 We create a civilization and Society of the Mind in Cyberspace. May it be more humane and fair than the world our governments have made before.
 
 Inspired by by [John Perry Barlow](https://en.wikipedia.org/wiki/John\_Perry\_Barlow) & [The Electronic Frontier Foundation](https://www.eff.org)
-

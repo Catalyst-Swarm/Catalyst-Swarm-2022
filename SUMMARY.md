@@ -4,6 +4,6 @@
 * [Explore & Connect](explore-and-connect.md)
 * [Events](events.md)
 
-## Group 1
+## January 2022
 
-* [Town Halls](group-1/town-halls.md)
+* [Town Halls](january-2022/town-halls.md)

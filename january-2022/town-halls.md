@@ -1,3 +1,0 @@
-# Town Halls
-
-Town Halls

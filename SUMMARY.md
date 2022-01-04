@@ -6,4 +6,4 @@
 
 ## January 2022
 
-* [Town Halls](january-2022/town-halls.md)
+* [Catalyst Town Halls - January 2022](january-2022/catalyst-town-halls-january-2022.md)

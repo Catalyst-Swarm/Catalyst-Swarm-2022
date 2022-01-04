@@ -10,7 +10,13 @@ Maybe it’s wrong to speak about Sessions or Events as this could give you a wr
 
 Feel free to join and to meet the Community
 
+{% hint style="info" %}
+Check out upcoming events on Meetup :  [https://www.meetup.com/Cardano-Catalyst-Community-Network](https://www.meetup.com/Cardano-Catalyst-Community-Network)
+{% endhint %}
+
 ## Catalyst Town Halls
+
+![](<.gitbook/assets/2022-01-04 (2).png>)
 
 #### Each Wednesday at 18:00 UTC - Town Hall by IOHK
 

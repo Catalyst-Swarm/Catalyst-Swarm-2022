@@ -33,3 +33,12 @@ Check out Swarm's Youtube Channel
 A static site generated site based on Hugo using the Docsy Template
 
 {% embed url="https://catalyst-swarm.github.io" %}
+
+## GitBooks
+
+### Catalyst Swarm Genesis GitBook 2021&#x20;
+
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis" %}
+
+
+

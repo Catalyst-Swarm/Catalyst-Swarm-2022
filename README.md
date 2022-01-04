@@ -1,5 +1,5 @@
 ---
-description: The activities of the
+description: The activities of the Catalyst Swarm in 2022
 ---
 
 # Catalyst-Swarm-2022

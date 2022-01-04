@@ -6,4 +6,4 @@
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [Town Halls](group-1/town-halls.md)

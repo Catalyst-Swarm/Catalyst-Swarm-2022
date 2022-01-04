@@ -16,11 +16,19 @@ Here you will find a history of Swarm activities in 2022.&#x20;
 
 A Fund 7 Catalyst Proposal "[Catalyst Swarm 2022 GitBook](https://cardano.ideascale.com/a/dtd/Catalyst-Swarm-2022-GitBook/382330-48088)" in the [Community Events](https://cardano.ideascale.com/a/campaign-home/26234) challenge seeks to fund the maintenance of this archive&#x20;
 
-## Youtube Channel
+## Youtube Channels
 
-Check out Swarm's Youtube Channel
+### Swarm's Youtube
 
 {% embed url="https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w/videos" %}
+
+### Catalyst School's Youtube
+
+{% embed url="https://www.youtube.com/channel/UCIPvRvMoxhmHLUuPPcsMmmg/videos" %}
+
+### Cardano Eastern Town Hall
+
+{% embed url="https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured" %}
 
 ## Websites
 

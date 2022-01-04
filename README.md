@@ -40,5 +40,15 @@ A static site generated site based on Hugo using the Docsy Template
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis" %}
 
+### Catalyst Circle 1
 
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle" %}
+
+### Catalyst Circle 2
+
+{% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2" %}
+
+### The Catalyst School
+
+{% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school" %}
 

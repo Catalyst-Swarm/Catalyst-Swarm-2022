@@ -2,7 +2,7 @@
 
 ## 5th January
 
-### Recording Placeholder
+{% embed url="https://www.youtube.com/watch?v=e9SnGwNTjzQ" %}
 
 ### Slides&#x20;
 

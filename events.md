@@ -26,6 +26,6 @@ Right after, **The Catalyst Swarm After Town Hall** opens the floor. Join Commun
 
 ### Book a breakout room
 
-Book a breakout room using this google form&#x20;
+Book a breakout room using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSd4E8C01F-DEB3CaM7pBvw-J5NLQbO2pc7ORIUHda-oM9SI5Q/viewform)&#x20;
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSd4E8C01F-DEB3CaM7pBvw-J5NLQbO2pc7ORIUHda-oM9SI5Q/viewform" %}

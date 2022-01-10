@@ -23,3 +23,9 @@ Check out upcoming events on Meetup :  [https://www.meetup.com/Cardano-Catalyst-
 Join Daniel Ribar (Community Manager) and the rest of the community for our weekly Catalyst update. Want go get an impression on Town Hall ? Check all recordings ([HERE](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m\_h7QqLk)).
 
 Right after, **The Catalyst Swarm After Town Hall** opens the floor. Join Community hosted breakout rooms and participate in meaningful discussion, workshops and sessions all around Cardano and Project Catalyst.
+
+### Book a breakout room
+
+Book a breakout room using this google form&#x20;
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSd4E8C01F-DEB3CaM7pBvw-J5NLQbO2pc7ORIUHda-oM9SI5Q/viewform" %}

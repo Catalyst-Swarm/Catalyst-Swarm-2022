@@ -27,3 +27,11 @@ Fabrice and Roman from the Ledger Team presenting the proposal to the Cardano Co
 Have a look on the proposal on ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/TBD/384961-48088" %}
+
+### CA/vCA Process discussion
+
+{% embed url="https://youtu.be/eawir33lhzg" %}
+
+#### Documentation
+
+{% embed url="https://docs.google.com/document/d/1CYqpiuWHraWVLQADuKE5v-TE8YLVSLw4jBAbaksRJIA/edit?usp=sharing" %}

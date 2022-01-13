@@ -4,6 +4,16 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 # Catalyst Town Halls - January 2022
 
+## 12th January
+
+### Fund 8 CA process Improvement ideation
+
+{% embed url="https://youtu.be/NBc2YtyGT1M" %}
+In this session, we go over emerging problems related to Community Advisor (CA) roles. The goal of the discussions is to prioritize and gather more feedback to improve the CA process.
+{% endembed %}
+
+Miro Board link: [https://miro.com/app/board/uXjVOXVhuVk=/?invite\_link\_id=70157983048](https://miro.com/app/board/uXjVOXVhuVk=/?invite\_link\_id=70157983048)
+
 ## 5th January
 
 {% embed url="https://www.youtube.com/watch?v=e9SnGwNTjzQ" %}

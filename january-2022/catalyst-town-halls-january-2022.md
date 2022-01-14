@@ -6,6 +6,14 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 ## 12th January
 
+{% embed url="https://youtu.be/xt7Py1HTQsg" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/194FFjzQx5ws8jhPiajM7F9dI_HozJCCRI3VwfXudG5I/edit?usp=sharing" %}
+
+### After Town Hall Breakout Rooms
+
 ### Fund 8 CA process Improvement ideation
 
 {% embed url="https://youtu.be/NBc2YtyGT1M" %}

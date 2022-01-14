@@ -22,6 +22,14 @@ In this session, we go over emerging problems related to Community Advisor (CA) 
 
 Miro Board link: [https://miro.com/app/board/uXjVOXVhuVk=/?invite\_link\_id=70157983048](https://miro.com/app/board/uXjVOXVhuVk=/?invite\_link\_id=70157983048)
 
+## How to nurture a culture of listening in Catalyst
+
+#### Stephen Whitenstall - [QA-DAO](https://quality-assurance-dao.github.io)
+
+{% embed url="https://youtu.be/_gKsEYrbNQQ" %}
+
+Further documentation here - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)
+
 ## 5th January
 
 {% embed url="https://www.youtube.com/watch?v=e9SnGwNTjzQ" %}

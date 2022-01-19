@@ -12,6 +12,12 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 {% embed url="https://docs.google.com/presentation/d/1kXZAwPGrZGnI2IsfmiJvqkFwrZX92gPORgk1uAQdHhg" %}
 
+### Rick’s picks for Catalyst Fund 7 voting
+
+#### Chat transcript
+
+
+
 ## 12th January
 
 {% embed url="https://youtu.be/xt7Py1HTQsg" %}

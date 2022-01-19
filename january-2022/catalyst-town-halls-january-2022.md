@@ -4,6 +4,14 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 # Catalyst Town Halls - January 2022
 
+## 19th January
+
+{% embed url="https://www.youtube.com/watch?v=Z4efx1ZmclU" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1kXZAwPGrZGnI2IsfmiJvqkFwrZX92gPORgk1uAQdHhg" %}
+
 ## 12th January
 
 {% embed url="https://youtu.be/xt7Py1HTQsg" %}

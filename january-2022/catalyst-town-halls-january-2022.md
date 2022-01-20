@@ -400,57 +400,27 @@ Because either way there going to be 1000+ proposals
 
 **00:32:17 From  Dor Garbash** I was responding to that.
 
-00:32:17 From  mike jarmon  to  Everyone:
+**00:32:17 From  mike jarmon**  Never seen such a response in a TH… quite polemical, and needing a better set up I guess.
 
-Never seen such a response in a TH… quite polemical, and needing a better set up I guess.
-
-&#x20;
-
-18:33:25 From  Matthias Matthijs  to  Everyone:
-
-I think the real message got lost in the noise here because aparently, people might have different viewpoints sometimes and that doesn't seem so easy to be accepted. But that was not what this was about at all.
-
-&#x20;             &#x20;
+**00:33:25 From  Matthias Matthijs**  I think the real message got lost in the noise here because aparently, people might have different viewpoints sometimes and that doesn't seem so easy to be accepted. But that was not what this was about at all.           &#x20;
 
 Everybody is encouraged to make and publish their own lists.
 
-&#x20;
+**00:33:40 From  Jose Miguel De Gamboa**  @Dor that's the message that went through for me. Regardless of agreeing with Rick's assesments it's a great example of "doing your homework" and encouraging healthy discussions.
 
-18:33:40 From  Jose Miguel De Gamboa  to  Everyone:
+**00:34:26 From  Butterfly Tyrant**  only need to vote once to receive voter rewards yes?
 
-@Dor that's the message that went through for me. Regardless of agreeing with Rick's assesments it's a great example of "doing your homework" and encouraging healthy discussions.
+**00:34:29 From  Peter Wolcott**  +10 Matthias Matthijs
 
-&#x20;
+**00:34:32 From  Yoram Cardano4Climate**  Reach (and everyone else) join us at the event tomorrow - How can we use blockchain/Cardano for forest conservation and tree planting activities: [https://www.meetup.com/Cardano-Catalyst-Community-Network/events/283269165](https://www.meetup.com/Cardano-Catalyst-Community-Network/events/283269165)
 
-18:34:26 From  Butterfly Tyrant  to  Everyone:
+**00:34:43 From  Butterfly Tyrant**  vote on one proposal to get the rewards yes?
 
-only need to vote once to receive voter rewards yes?
-
-&#x20;
-
-18:34:29 From  Peter Wolcott  to  Everyone:
-
-\+10 Matthias Matthijs
-
-&#x20;
-
-18:34:32 From  Yoram Cardano4Climate  to  Everyone:
-
-Reach (and everyone else) join us at the event tomorrow - How can we use blockchain/Cardano for forest conservation and tree planting activities: [https://www.meetup.com/Cardano-Catalyst-Community-Network/events/283269165](https://www.meetup.com/Cardano-Catalyst-Community-Network/events/283269165)
-
-&#x20;
-
-18:34:43 From  Butterfly Tyrant  to  Everyone:
-
-vote on one proposal to get the rewards yes?
-
-&#x20;
-
-18:34:49 From  Dor Garbash  to  Everyone:
-
-Thanks Jose, it was on purpose to show a “dissenting” voice, because it’s important to allow diversity.
+**00:34:49 From  Dor Garbash**  Thanks Jose, it was on purpose to show a “dissenting” voice, because it’s important to allow diversity.
 
 #### Chat transcript
+
+
 
 
 

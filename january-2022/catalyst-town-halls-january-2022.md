@@ -420,9 +420,13 @@ Everybody is encouraged to make and publish their own lists.
 
 #### Chat transcript
 
+{% file src="../.gitbook/assets/Full Meeting Chat, Town Hall 19th Jan 2022.doc" %}
 
+### After Town Hall Breakout Rooms
 
+### Fund 8 Catalyst Process Improvement Ideation
 
+{% embed url="https://www.youtube.com/watch?v=TecEOUL7E_U" %}
 
 ## 12th January
 

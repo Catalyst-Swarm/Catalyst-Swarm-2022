@@ -4,8 +4,6 @@
 
 This is the consensus reached during a Discord discussion between a sample of “Swarm Veterans” starting at 01:02 on January 20th, 2022 and concluding at 15:54 on January 21st, 2022 UTC.
 
-The text conversation was limited to 10 members at one time and in total invited 11 members to participate.
-
 Felix did not prompt and was not party to this discussion.
 
 ## Opening Statement

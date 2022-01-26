@@ -1,6 +1,6 @@
 # Governance Week
 
-## Monday
+## Monday, 24th January
 
 ### Making sense of different Challenges
 
@@ -14,7 +14,7 @@ This Public Meeting was recorded 24.01.2022 for Catalyst Fund 7 Governance Week.
 
 You can see and join the next session from the Miro Board
 
-## Tuesday
+## Tuesday, 25th January
 
 ### Organizing Proposals and Experimenting with Measures
 

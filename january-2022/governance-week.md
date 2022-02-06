@@ -34,7 +34,9 @@ This Public Meeting was recorded 25.01.2022 for Catalyst Fund 7 Governance Week.
 
 {% embed url="https://youtu.be/2hZasGrPDng" %}
 
+### CA Process Improvements Overview
 
+{% embed url="https://youtu.be/kVFSxI-eCL4" %}
 
 ## Graphics
 

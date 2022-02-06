@@ -16,11 +16,11 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 {% embed url="https://youtu.be/PZcAHssclA4" %}
 
-### Governance Week - Rules for wiser Crowds
+### Rules for wiser Crowds
 
 {% embed url="https://youtu.be/K2yT74AfmK0" %}
 
-### Governance Week - Bringing more Women Through Mentorship
+### Bringing more Women Through Mentorship
 
 
 

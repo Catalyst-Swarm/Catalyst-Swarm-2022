@@ -4,6 +4,28 @@ description: Catalyst Town Halls and breakout rooms for the month of January
 
 # Catalyst Town Halls - January 2022
 
+## 26th January
+
+{% embed url="https://youtu.be/oiDU2r6Oufk" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1tY3Wmf-mfDsKoCGKW2cXSuPIsMmT93ixla83wStaLis/edit?usp=sharing" %}
+
+### Catalyst through the lens of the Cynefin Framework
+
+{% embed url="https://youtu.be/PZcAHssclA4" %}
+
+### Governance Week - Rules for wiser Crowds
+
+{% embed url="https://youtu.be/K2yT74AfmK0" %}
+
+### Governance Week - Bringing more Women Through Mentorship
+
+
+
+{% embed url="https://youtu.be/dotAU39jWhg" %}
+
 ## 19th January
 
 {% embed url="https://www.youtube.com/watch?v=Z4efx1ZmclU" %}

@@ -22,6 +22,20 @@ You can see and join the next session from the Miro Board
 
 This Public Meeting was recorded 25.01.2022 for Catalyst Fund 7 Governance Week. Hosted By Tevo Saks The goal is to facilitate a healthy discussion towards organizing and sensing Proposals that are meant to guide future Cardano developments and community building. In this session, we experiment with measuring and comparing proposals. The notes are taken on the Governance Week Miro Board: [https://miro.com/app/board/uXjVOT9BFbM=/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGhfX2hxR01QUGlITnlHQ2RtdWtTLVgtQWg3d3xBQ3Jtc0tsLXlkRUhSMU1kMVVHQjMxTlBTT0c1R0tMMVVZOXhmQXJMRzFaVUMwN0ctWHRrdGt4aDliRVd3TnF6Vmo1VXQ5UnUwMmZrbnFWbG5jSnhXbFVBaTc0dUV4Q21JM0lTVnQ3UlhnSnRQR2tSYTN1aDdRTQ\&q=https%3A%2F%2Fmiro.com%2Fapp%2Fboard%2FuXjVOT9BFbM%3D%2F\&v=oCDWxNkPgk8) You can join the next session on Thursday 27th from the Miro Board
 
+## Thursday, 27th January
+
+### How proposals enable decentralized governance?
+
+{% embed url="https://youtu.be/aNgCtDWpTjE" %}
+
+## Friday, 28th January
+
+### Catalyst Circle Admin Proposals
+
+{% embed url="https://youtu.be/2hZasGrPDng" %}
+
+
+
 ## Graphics
 
 ![](../.gitbook/assets/governance\_week\_1.png)

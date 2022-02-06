@@ -1,6 +1,6 @@
 # Catalyst Town Halls - February 2022
 
-## 2nd February 2022
+## 2nd February
 
 {% embed url="https://youtu.be/cFYJs3lMY1I" %}
 

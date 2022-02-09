@@ -2,11 +2,11 @@
 
 ## 9th February
 
-Video Placeholder
+{% embed url="https://youtu.be/BUJ0LA0dcqs" %}
 
 ### Slides
 
-
+{% embed url="https://docs.google.com/presentation/d/1XDtiUqIBJPgvlUmzyn9RLqJ8kmga_mCUT9NNqe3wpao/edit?usp=sharing" %}
 
 ### After Town Hall Breakout Rooms
 

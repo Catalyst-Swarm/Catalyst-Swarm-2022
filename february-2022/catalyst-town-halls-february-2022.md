@@ -6,6 +6,8 @@
 
 ### Slides
 
+{% embed url="https://docs.google.com/presentation/d/1yRabCs-BUDPm2GLPFRvUjoiThdVAzhEsH2sMSgKpqnQ/edit?usp=sharing" %}
+
 ### After Town Hall Breakout Rooms
 
 

@@ -18,7 +18,7 @@ Dzhuliana Nikolova ist hosting a room in the After Town Hall on February 9th abo
 
 More about Dzhuliana's Mentorship Project: [https://oneuponedown.org/](https://oneuponedown.org)
 
-and on the Proposal:&#x20;
+and on the Proposal: [https://cardano.ideascale.com/c/idea/384036](https://cardano.ideascale.com/c/idea/384036)
 
 ### Catalyst Funding Categories
 

@@ -14,7 +14,7 @@ Follow this [link ](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/)fo
 
 Here you will find a history of Swarm activities in 2022.&#x20;
 
-### Funded by Project Catalyst&#x20;
+### <mark style="color:red;">Funded by Project Catalyst</mark>&#x20;
 
 A Fund 7 Catalyst Proposal "[Catalyst Swarm 2022 GitBook](https://cardano.ideascale.com/a/dtd/Catalyst-Swarm-2022-GitBook/382330-48088)" in the [Community Events](https://cardano.ideascale.com/a/campaign-home/26234) challenge funds the maintenance of this archive.
 

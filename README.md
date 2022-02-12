@@ -32,6 +32,10 @@ A Fund 7 Catalyst Proposal "[Catalyst Swarm 2022 GitBook](https://cardano.ideasc
 
 {% embed url="https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured" %}
 
+## Quality Assurance DAO
+
+{% embed url="https://www.youtube.com/channel/UCSqcMeG4ympeqoQRI_zczzA" %}
+
 ## Websites
 
 ### Current Website

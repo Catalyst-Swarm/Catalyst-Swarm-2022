@@ -1,6 +1,6 @@
 ---
 description: The activities of the Catalyst Swarm in 2022
-cover: .gitbook/assets/maxresdefault.jpg
+cover: .gitbook/assets/maxresdefault (1).jpg
 coverY: 0
 ---
 

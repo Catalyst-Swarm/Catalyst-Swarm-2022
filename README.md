@@ -70,3 +70,6 @@ A static site generated site based on Hugo using the Docsy Template
 
 {% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school" %}
 
+## Twitter
+
+{% embed url="https://twitter.com/CatalystSwarm" %}

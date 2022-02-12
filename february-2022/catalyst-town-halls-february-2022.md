@@ -30,7 +30,11 @@ More about the Funding Categories
 
 [https://catalyst-swarm.gitbook.io/catalyst-funding-categories/](https://catalyst-swarm.gitbook.io/catalyst-funding-categories/)
 
+## Mini Proposal Workshop - Owuzu
 
+{% embed url="https://youtu.be/2sY9tcugv4c" %}
+
+Tevo Saks hosts an After Town Hall on 9th February 2022
 
 ## 2nd February
 

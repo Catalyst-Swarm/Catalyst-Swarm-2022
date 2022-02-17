@@ -32,8 +32,6 @@ More about the Funding Categories
 
 ### Mini Proposal Workshop - Owuzu
 
-{% embed url="https://youtu.be/2sY9tcugv4c" %}
-
 Tevo Saks hosts an After Town Hall on 9th February 2022
 
 ## 2nd February

@@ -1,5 +1,45 @@
 # Catalyst Town Halls - February 2022
 
+## 16th February
+
+Recording
+
+Slides
+
+## After Town Hall Breakout Rooms
+
+### Blockchain Governance Principles & Catalyst
+
+{% embed url="https://youtu.be/QEoQFesgUnc" %}
+
+An overview of the recent paper by Prof Aggelos Kiayias & Philip Lazos. After Town Hall, 16th February 2022. Hosted by Stephen Whitenstall QADAO
+
+### Women & Blockchain: Cross-Chain Relationships and Catalyst Onboarding
+
+{% embed url="https://youtu.be/LSwvk3qcGS4" %}
+
+Session N4: OneUpOneDown Breakout rooms initiative Our goal for this session was to start building a strong layer of coordination between all women initiatives within the Cardano Catalyst community. Discussion on Cross-Chain Relationships and Catalyst Onboarding brought us to the following structure:&#x20;
+
+Structure for AfterTownHall Breakout sessions going forward:&#x20;
+
+1\. Space to share projects, existing and new initiatives&#x20;
+
+2\. Deep dive on a specific (pre-agreed) topic&#x20;
+
+3\. Open discussion to understand needs (which can feed into the deep dive topic). Starting question = what’s blocking you?
+
+&#x20;—---------------------------------&#x20;
+
+OneUpOneDown is is a highly scalable AI mentor matching platform. Our purpose is to create trusted relationships through mentorship and our focus is particularly on women in business and technology. [https://oneuponedown.org/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbG9Mb0NUOGRPYmtxR2ZuVFdJQ2NxUE0yRnpvZ3xBQ3Jtc0tsazdSa3l3MVozOVp0RHZ0ZVFJeXpzQXJqQktwSmtsVzVLaGk0OFRRQV9YYWRUSXg0YUdoNFJmdlBGSEVVNTlLX1dWWlJSZFFNa0FlWThMSmdSRXl1ZTk0UW16SkJBYU5mbk5BbUM1VGpHMllHSUVFbw\&q=https%3A%2F%2Foneuponedown.org%2F)&#x20;
+
+OneUpOneDown Proposal: “Bring more women to Cardano”
+
+## Community Advisor discussion
+
+{% embed url="https://youtu.be/3e2kOCrquH8" %}
+
+Kenric Nelson, former Catalyst Circle representative for the Community Advisor, hosts a After Town Hall breakout room to discuss CA related topics
+
 ## 9th February
 
 {% embed url="https://youtu.be/BUJ0LA0dcqs" %}

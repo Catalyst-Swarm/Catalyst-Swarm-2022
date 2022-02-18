@@ -40,6 +40,12 @@ OneUpOneDown Proposal: “Bring more women to Cardano”
 
 Kenric Nelson, former Catalyst Circle representative for the Community Advisor, hosts a After Town Hall breakout room to discuss CA related topics
 
+### Challenge Team Workshop
+
+{% embed url="https://youtu.be/R9k2MjFW5bQ" %}
+
+Kriss Baird, Product owner at Project Catalyst, hosts the second Challenge Team Workshop since the emergence of this new role in Project Catalyst.
+
 ## 9th February
 
 {% embed url="https://youtu.be/BUJ0LA0dcqs" %}

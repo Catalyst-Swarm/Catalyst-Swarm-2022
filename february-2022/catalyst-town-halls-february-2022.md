@@ -38,13 +38,13 @@ OneUpOneDown Proposal: “Bring more women to Cardano”
 
 {% embed url="https://youtu.be/3e2kOCrquH8" %}
 
-Kenric Nelson, former Catalyst Circle representative for the Community Advisor, hosts a After Town Hall breakout room to discuss CA related topics
+Kenric Nelson, the former Catalyst Circle representative for the Community Advisor, hosts an After Town Hall breakout room to discuss CA related topics
 
 ### Challenge Team Workshop
 
 {% embed url="https://youtu.be/R9k2MjFW5bQ" %}
 
-Kriss Baird, Product owner at Project Catalyst, hosts the second Challenge Team Workshop since the emergence of this new role in Project Catalyst.
+Kriss Baird, the Product owner at Project Catalyst, hosts the second Challenge Team Workshop since the emergence of this new role in Project Catalyst.
 
 ## 9th February
 
@@ -60,7 +60,7 @@ Kriss Baird, Product owner at Project Catalyst, hosts the second Challenge Team 
 
 {% embed url="https://youtu.be/YM-zmoB7Vs8" %}
 
-Dzhuliana Nikolova ist hosting a room in the After Town Hall on February 9th about bringing more Women into the Cardano Ecosystem through Mentorship. A needed and appreciated Community Initiative.&#x20;
+Dzhuliana Nikolova is hosting a room in the After Town Hall on February 9th about bringing more Women into the Cardano Ecosystem through Mentorship. A needed and appreciated Community Initiative.&#x20;
 
 More about Dzhuliana's Mentorship Project: [https://oneuponedown.org/](https://oneuponedown.org)
 
@@ -70,15 +70,35 @@ and on the Proposal: [https://cardano.ideascale.com/c/idea/384036](https://carda
 
 {% embed url="https://youtu.be/XBq_KkL6B6Y" %}
 
-In this Session which took place in the After Town Hall on Feb 9th, George Lovegrove introduced his idea of Funding Categories to the Community. A great perspective on the current Catalyst Architecture More about Follow George & Pace on Twitter [https://twitter.com/lovegrovegeo](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbnVFblpLaERZYlAtV2E3OFBVYVo5bnRySkxxQXxBQ3Jtc0trblJ1TXY5ZmpuMFB5eXdVR3FhM1NRbXVDS3V2aGlqdGg5RTJXY0VuQWozWmpERE1FMXZ2QjN6c3RJdXd2eERNUlgwc09WYjdhMVNScWoxcGhBV3pseHFVWEZRYUtRMWlSN0gwT3AzRV9rQ1hyeEY4MA\&q=https%3A%2F%2Ftwitter.com%2Flovegrovegeo) & [https://twitter.com/cardanopace](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbWM1MTZlSGhubkJsaXloem9XYk1KUlZvNDI0Z3xBQ3Jtc0ttOWg2ckFnNldDM29WMzNOU3hxT2d0dFU5U1FrNUw4RXQzZnJhX0FIYVFiZFA3TE1MQlpwaUlVRTdsRy02V1ZKVExQY2RMcWpKaGo4SjRkSFIzTXYzLU1MdVc5RTFHMW41LXF6cllGV241a3ZVcjlkOA\&q=https%3A%2F%2Ftwitter.com%2Fcardanopace)&#x20;
+In this session which took place in the After Town Hall on Feb 9th, George Lovegrove introduced his idea of Funding Categories to the Community. A great perspective on the current Catalyst Architecture More about Follow George & Pace on Twitter [https://twitter.com/lovegrovegeo](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbnVFblpLaERZYlAtV2E3OFBVYVo5bnRySkxxQXxBQ3Jtc0trblJ1TXY5ZmpuMFB5eXdVR3FhM1NRbXVDS3V2aGlqdGg5RTJXY0VuQWozWmpERE1FMXZ2QjN6c3RJdXd2eERNUlgwc09WYjdhMVNScWoxcGhBV3pseHFVWEZRYUtRMWlSN0gwT3AzRV9rQ1hyeEY4MA\&q=https%3A%2F%2Ftwitter.com%2Flovegrovegeo) & [https://twitter.com/cardanopace](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbWM1MTZlSGhubkJsaXloem9XYk1KUlZvNDI0Z3xBQ3Jtc0ttOWg2ckFnNldDM29WMzNOU3hxT2d0dFU5U1FrNUw4RXQzZnJhX0FIYVFiZFA3TE1MQlpwaUlVRTdsRy02V1ZKVExQY2RMcWpKaGo4SjRkSFIzTXYzLU1MdVc5RTFHMW41LXF6cllGV241a3ZVcjlkOA\&q=https%3A%2F%2Ftwitter.com%2Fcardanopace)&#x20;
 
 More about the Funding Categories
 
 [https://catalyst-swarm.gitbook.io/catalyst-funding-categories/](https://catalyst-swarm.gitbook.io/catalyst-funding-categories/)
 
-### Mini Proposal Workshop - Owuzu
+### Mini Proposal Workshop #12
 
-Tevo Saks hosts an After Town Hall on 9th February 2022
+{% embed url="https://youtu.be/fylABJItnJE" %}
+
+
+
+Hosted by Tevo Saks and accompanied by Cauê Chianca, Simon Heath, and 5 other Community Members
+
+Starting off with a new Fund 8 series.
+
+Where the results will take us, what problems we choose will reveal themselves in these workshops.
+
+In this video, we moving towards general blockchain education.
+
+Problem Statement: Senior Market is a missing platform for educational general blockchain
+
+One of the solutions we talked about was about Creating educative Live Sessions to compare blockchain concepts.
+
+One of the rare moments in these kinds of sessions, we finished the Title chapter :D
+
+If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in this Discord channel: [https://discord.gg/CSCaSdnaWW](https://discord.gg/CSCaSdnaWW)
+
+If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/uXjVOPvZaak=/](https://miro.com/app/board/uXjVOPvZaak=/)2nd February
 
 ## 2nd February
 

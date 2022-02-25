@@ -10,6 +10,18 @@
 
 ### After Town Hall Breakout Rooms
 
+### F8 Challenges - Cross Chain Collaborations
+
+{% embed url="https://youtu.be/e70JhbkWBvs" %}
+
+Tomi Astikainen, Filip Blagojevic and Felix Weber presenting the Project Catalyst Fund 8 Cross Chain Collaboration - Challenge in the Catalyst Swarm After Town Hall on February 23.
+
+How might we create connections and collaboration between Cardano and other blockchains in the next six months?
+
+The Challenge on Ideascale:
+
+[https://cardano.ideascale.com/c/campaigns/26436/about](https://cardano.ideascale.com/c/campaigns/26436/about)
+
 ### F8 Challenges - Community Advisor Improvements
 
 {% embed url="https://youtu.be/ebyA5dnz0Fk" %}

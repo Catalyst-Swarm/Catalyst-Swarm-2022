@@ -21,3 +21,9 @@ The Insight Sharing Workshop Series is a new way of brainstorming about Catalyst
 #### 21st February 2022
 
 {% embed url="https://youtu.be/KGrpYJDi31s" %}
+
+### Gamers On-Chained
+
+#### 21st February 2022
+
+{% embed url="https://youtu.be/1bkD99YaKVw" %}

@@ -1,6 +1,6 @@
 # Swarm Sessions
 
-### Saturday, 5th February 2022
+## Saturday, 5th February 2022
 
 ### Discourse about delegated voting
 

@@ -16,6 +16,8 @@ The Insight Sharing Workshop Series is a new way of brainstorming about Catalyst
 
 {% embed url="https://youtu.be/f7L0tLJYEvo" %}
 
-Cross-Chain Collaboration
+### Cross-Chain Collaboration
+
+#### 21st February 2022
 
 {% embed url="https://youtu.be/KGrpYJDi31s" %}

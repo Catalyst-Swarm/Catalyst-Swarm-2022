@@ -36,9 +36,11 @@ To get in touch with the Challenge Team: [https://t.me/+vIUITl-wUPBiMmJh](https:
 
 ## 16th February
 
-Recording
+{% embed url="https://youtu.be/rNZJvzjgduM" %}
 
-Slides
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1hfpHzhVl0Mu8xrMy5f6fFG0O0iJHx9qIp9kOBrcWNN8/edit?usp=sharing" %}
 
 ## After Town Hall Breakout Rooms
 

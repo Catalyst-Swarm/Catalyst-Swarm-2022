@@ -10,9 +10,17 @@
 
 ### After Town Hall Breakout Rooms
 
+### F8 Challenges - Community Advisor Improvements
 
+{% embed url="https://youtu.be/ebyA5dnz0Fk" %}
 
+Jose Miguel De Gamboa presents the Community Advisor Improvements - Challenge in the Catalyst Swarm After Town Hall on February 23.
 
+More about the Challenge:
+
+[https://cardano.ideascale.com/c/campaigns/26453/about](https://cardano.ideascale.com/c/campaigns/26453/about)
+
+To get in touch with the Challenge Team: [https://t.me/+vIUITl-wUPBiMmJh](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbTZuNXdXZ0pySXlDT2VESUdMV3ZMekRkVnhvZ3xBQ3Jtc0tuQ0ZmSlotbHI0Z1NxVXNDMnBNaVVOZjFURC1kQ1FEMWswb2I3UW1JLWx5OEJ2LW45OFdrbGpSZm4zdFlLRGZVRjM4Wkw4S2JRMXV5clNLcVpWYnk0a3lLUS03NFkzVk1xQkU0Y1FDRW5oSGZOUzIwdw\&q=https%3A%2F%2Ft.me%2F%2BvIUITl-wUPBiMmJh\&v=ebyA5dnz0Fk)
 
 ## 16th February
 
@@ -93,8 +101,6 @@ More about the Funding Categories
 ### Mini Proposal Workshop #12
 
 {% embed url="https://youtu.be/fylABJItnJE" %}
-
-
 
 Hosted by Tevo Saks and accompanied by Cauê Chianca, Simon Heath, and 5 other Community Members
 

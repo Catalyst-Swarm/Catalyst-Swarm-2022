@@ -34,6 +34,18 @@ More about the Challenge:
 
 To get in touch with the Challenge Team: [https://t.me/+vIUITl-wUPBiMmJh](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbTZuNXdXZ0pySXlDT2VESUdMV3ZMekRkVnhvZ3xBQ3Jtc0tuQ0ZmSlotbHI0Z1NxVXNDMnBNaVVOZjFURC1kQ1FEMWswb2I3UW1JLWx5OEJ2LW45OFdrbGpSZm4zdFlLRGZVRjM4Wkw4S2JRMXV5clNLcVpWYnk0a3lLUS03NFkzVk1xQkU0Y1FDRW5oSGZOUzIwdw\&q=https%3A%2F%2Ft.me%2F%2BvIUITl-wUPBiMmJh\&v=ebyA5dnz0Fk)
 
+### Mini Proposal Workshop #13
+
+{% embed url="https://youtu.be/qxbn0aWg3ds" %}
+
+Hosted by Tevo Saks and accompanied by Karim Sahyoun, Oussama Benmahmoud, and 3 other Community Members
+
+This day we talked about problems related to modern vehicles.
+
+If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in this Discord channel: [https://discord.gg/CSCaSdnaWW](https://discord.gg/CSCaSdnaWW)
+
+If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/uXjVOPvZaak=/](https://miro.com/app/board/uXjVOPvZaak=/)
+
 ## 16th February
 
 {% embed url="https://youtu.be/rNZJvzjgduM" %}

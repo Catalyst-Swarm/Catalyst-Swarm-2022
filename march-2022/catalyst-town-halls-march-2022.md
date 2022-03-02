@@ -2,7 +2,7 @@
 
 ## 2nd March 2022
 
-### Recording Placeholder
+{% embed url="https://youtu.be/GqT9TYwsPW0" %}
 
 ### Slides
 

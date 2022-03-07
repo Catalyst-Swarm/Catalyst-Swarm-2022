@@ -11,3 +11,7 @@
 ### Breakout Rooms
 
 ### Community Advisor Sub-Circle Purpose Discussion
+
+{% embed url="https://youtu.be/boYhq-ulIFA" %}
+
+Nadia Hopkins, Catalyst Circle Community Advisor Representative, hosts SWARM AfterTownHall Breakout Room to Discuss the Purpose and Vision of a CA Sub-Circle with the CA Community! Human Sensor Array Construction :: In Progress :)

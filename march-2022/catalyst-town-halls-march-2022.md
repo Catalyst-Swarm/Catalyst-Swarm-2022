@@ -8,4 +8,6 @@
 
 {% embed url="https://docs.google.com/presentation/d/1GIenZJD2P1zsweBY4DL44yREeZCpqVyr7hUPX4Fx_GM/edit?usp=sharing" %}
 
-Breakout Rooms
+### Breakout Rooms
+
+### Community Advisor Sub-Circle Purpose Discussion

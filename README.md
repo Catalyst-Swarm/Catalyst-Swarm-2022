@@ -10,9 +10,11 @@ coverY: 0
 
 For the latest news and how to get involved check out the [Catalyst Swarm Website](https://catalystswarm.com) including :
 
-- [Events](https://catalystswarm.com/events-2/)
-- [About Swarm](https://catalystswarm.com/about-us/)
-- [Pool Network](https://catalystswarm.com/pool-network/)
+[Events](https://catalystswarm.com/events-2/)
+
+[About Swarm](https://catalystswarm.com/about-us/)
+
+[Pool Network](https://catalystswarm.com/pool-network/)
 
 ## 2021 Swarm GitBook
 

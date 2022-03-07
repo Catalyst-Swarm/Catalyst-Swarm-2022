@@ -6,6 +6,18 @@ coverY: 0
 
 # Catalyst Swarm 2022
 
+## Catalyst Swarm Website
+
+For the latest news and how to get involved check out the [Catalyst Swarm Website](https://catalystswarm.com) including :
+
+[Events](https://catalystswarm.com/events-2/)
+
+[About Swarm](https://catalystswarm.com/about-us/)
+
+[Pool Network](https://catalystswarm.com/pool-network/)
+
+## 2021 Swarm GitBook
+
 {% hint style="info" %}
 Follow this [link ](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/)for the 2021 Catalyst Swarm Genesis GitBook.
 {% endhint %}

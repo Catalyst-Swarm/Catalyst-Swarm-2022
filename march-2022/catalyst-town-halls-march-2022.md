@@ -18,3 +18,5 @@ Nadia Hopkins, Catalyst Circle Community Advisor Representative, hosts SWARM Aft
 
 {% embed url="https://docs.google.com/presentation/d/1lozRc4seZ9RfiOt83S3YOmAdxHFdJ9gOPi0qf0vxnt4/edit?usp=sharing" %}
 
+## Accelerate Decentralized Identity
+

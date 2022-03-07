@@ -10,11 +10,19 @@ coverY: 0
 
 For the latest news and how to get involved check out the [Catalyst Swarm Website](https://catalystswarm.com) including :
 
-[Events](https://catalystswarm.com/events-2/)
+* [Events](https://catalystswarm.com/events-2/)
+* [About Swarm](https://catalystswarm.com/about-us/)
+* [Pool Network](https://catalystswarm.com/pool-network/)
 
-[About Swarm](https://catalystswarm.com/about-us/)
+## Catalyst Town Halls
 
-[Pool Network](https://catalystswarm.com/pool-network/)
+### How to book a breakout room
+
+[Link to form](https://docs.google.com/forms/d/e/1FAIpQLSd4E8C01F-DEB3CaM7pBvw-J5NLQbO2pc7ORIUHda-oM9SI5Q/viewform)&#x20;
+
+[Breakout room guidelines](https://www.google.com/url?q=https://docs.google.com/document/d/1oWtox7GmDL7Xvk6jSirGZqfeu3qIWuwFRj8MYN6YMN4/edit?usp%3Dsharing\&sa=D\&source=editors\&ust=1646663372072768\&usg=AOvVaw2\_JSJ\_BkWTNLogAvKr5SI4)
+
+![](<.gitbook/assets/2022-03-07 (4).png>)
 
 ## 2021 Swarm GitBook
 
@@ -24,9 +32,9 @@ Follow this [link ](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/)fo
 
 ## Welcome to the Swarm archive for 2022
 
-Here you will find a history of Swarm activities in 2022.&#x20;
+Here you will find a history of Swarm activities in 2022.
 
-### <mark style="color:red;">Funded by Project Catalyst</mark>&#x20;
+### <mark style="color:red;">Funded by Project Catalyst</mark>
 
 A Fund 7 Catalyst Proposal "[Catalyst Swarm 2022 GitBook](https://cardano.ideascale.com/a/dtd/Catalyst-Swarm-2022-GitBook/382330-48088)" in the [Community Events](https://cardano.ideascale.com/a/campaign-home/26234) challenge funds the maintenance of this archive.
 
@@ -62,7 +70,7 @@ A static site generated site based on Hugo using the Docsy Template
 
 ## GitBooks
 
-### Catalyst Swarm Genesis GitBook 2021&#x20;
+### Catalyst Swarm Genesis GitBook 2021
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis" %}
 

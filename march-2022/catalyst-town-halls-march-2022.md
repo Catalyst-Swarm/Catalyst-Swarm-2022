@@ -1,5 +1,15 @@
 # Catalyst Town Halls - March 2022
 
+## 9th March 2022
+
+{% embed url="https://youtu.be/_mY4pHBgDp4" %}
+
+### Slides
+
+[Link to Slides](https://docs.google.com/presentation/d/1k2xtnqLTchQU0R3feUsb9TSf9wNQ2SXVBKszLHutQ7w/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/presentation/d/1k2xtnqLTchQU0R3feUsb9TSf9wNQ2SXVBKszLHutQ7w/edit?usp=sharing" %}
+
 ## 2nd March 2022
 
 {% embed url="https://youtu.be/GqT9TYwsPW0" %}

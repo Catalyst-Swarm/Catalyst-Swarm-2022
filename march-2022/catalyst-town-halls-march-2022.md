@@ -10,6 +10,18 @@
 
 {% embed url="https://docs.google.com/presentation/d/1k2xtnqLTchQU0R3feUsb9TSf9wNQ2SXVBKszLHutQ7w/edit?usp=sharing" %}
 
+### Breakout Rooms
+
+### How to build a Challenge Team GitBook
+
+{% embed url="https://youtu.be/8rv_gHoUc6A" %}
+
+Hosted by Stephen Whitenstall, QADAO
+
+A screen share and description of a GitBook built for the Auditability Challenge Team.
+
+[https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/](https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/)
+
 ## 2nd March 2022
 
 {% embed url="https://youtu.be/GqT9TYwsPW0" %}

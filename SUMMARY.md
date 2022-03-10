@@ -8,6 +8,7 @@
 ## March 2022
 
 * [Catalyst Town Halls - March 2022](march-2022/catalyst-town-halls-march-2022.md)
+* [Challenge Fest](march-2022/challenge-fest.md)
 
 ## February 2022
 

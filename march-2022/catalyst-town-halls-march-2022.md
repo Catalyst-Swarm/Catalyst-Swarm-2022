@@ -20,6 +20,16 @@ Link to Slides
 
 {% embed url="https://docs.google.com/presentation/d/12sZtJfT6vpE-v5-2XGLVfbeMAwWej_zkT4lUp42nVbc/edit?usp=sharing" %}
 
+### Media
+
+### Project Catalyst Fund 8 Trailer
+
+{% embed url="https://youtu.be/PH52oShypA0" %}
+
+### Idea Fest Fund 8 Trailer
+
+{% embed url="https://youtu.be/WkloWtKK--w" %}
+
 ## 9th March 2022
 
 {% embed url="https://youtu.be/_mY4pHBgDp4" %}

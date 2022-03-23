@@ -12,7 +12,13 @@ Link to Slides
 
 ## 16th March 2022
 
+{% embed url="https://youtu.be/GIRXcCKwBNk" %}
 
+### Slides
+
+****[**Link to Slides**](https://docs.google.com/presentation/d/12sZtJfT6vpE-v5-2XGLVfbeMAwWej\_zkT4lUp42nVbc/edit?usp=sharing)****
+
+{% embed url="https://docs.google.com/presentation/d/12sZtJfT6vpE-v5-2XGLVfbeMAwWej_zkT4lUp42nVbc/edit?usp=sharing" %}
 
 ## 9th March 2022
 

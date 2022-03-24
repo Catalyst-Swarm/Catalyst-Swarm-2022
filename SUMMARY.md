@@ -25,7 +25,4 @@
 ## Fund 7 Reporting
 
 * [Budget](fund-7-reporting/budget.md)
-
-***
-
-* [Monthly Reports](monthly-reports.md)
+* [Monthly Reports](fund-7-reporting/monthly-reports.md)

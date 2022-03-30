@@ -28,6 +28,10 @@ Recording Placeholder
 
 This is a general Q\&A session with community members that led to interesting discussion about user experience, personal identifiable information as well as opportunities to connect with the IO Atala PRISM and PSG teams
 
+### CA/vCA Solution & Feedback, F8
+
+{% embed url="https://youtu.be/Zq_6tkm6xlk" %}
+
 ## 16th March 2022
 
 {% embed url="https://youtu.be/GIRXcCKwBNk" %}

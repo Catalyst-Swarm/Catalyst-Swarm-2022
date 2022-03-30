@@ -12,7 +12,7 @@ Recording Placeholder
 
 ## 23rd March 2022
 
-Recording Placeholder
+{% embed url="https://youtu.be/jmXfbeFlrfU" %}
 
 ### Slides
 

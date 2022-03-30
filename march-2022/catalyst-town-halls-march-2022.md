@@ -66,6 +66,10 @@ This is a general Q\&A session with community members that led to interesting di
 
 {% embed url="https://youtu.be/l2actMP0e64" %}
 
+### Accelerate Decentralized Identity
+
+{% embed url="https://youtu.be/REmDwDrrZWo" %}
+
 ## 9th March 2022
 
 {% embed url="https://youtu.be/_mY4pHBgDp4" %}

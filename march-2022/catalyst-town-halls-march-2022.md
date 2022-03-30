@@ -84,6 +84,10 @@ A screen share and description of a GitBook built for the Auditability Challenge
 
 [https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/](https://quality-assurance-dao.gitbook.io/improve-and-grow-auditability/)
 
+### VCA Implementable F8 Adjustments
+
+{% embed url="https://youtu.be/wevCXIOxfJw" %}
+
 ## 2nd March 2022
 
 {% embed url="https://youtu.be/GqT9TYwsPW0" %}

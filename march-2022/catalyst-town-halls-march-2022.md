@@ -20,6 +20,14 @@ Recording Placeholder
 
 {% embed url="https://docs.google.com/presentation/d/163RaVChKMWOuE08PuzBSloHRrNx8xr3dT7Qazw4Xy8M/edit?usp=sharing" %}
 
+### Breakout Rooms
+
+### Accelerate Decentralised Identity
+
+{% embed url="https://youtu.be/mvGJPtdUP8k" %}
+
+This is a general Q\&A session with community members that led to interesting discussion about user experience, personal identifiable information as well as opportunities to connect with the IO Atala PRISM and PSG teams
+
 ## 16th March 2022
 
 {% embed url="https://youtu.be/GIRXcCKwBNk" %}

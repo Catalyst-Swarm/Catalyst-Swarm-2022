@@ -68,7 +68,7 @@ Total: 4800 ADA
 
 **T:** Should the terms hold a time? like, let’s say 3 months.
 
-**N:** I think it’s healthy to revisit things and adjust over time. So&#x20;
+**N:** I think it’s healthy to revisit things and adjust over time. So a time limit would be good.
 
 ## April 1st, 2022 - Extending Rewards for Felix
 
@@ -97,4 +97,3 @@ New End Date: 8th August 2022
 * Nori
 * George
 
-## a time limit would be good.

@@ -13,6 +13,8 @@ Several "Swarm Veterans" agreed to extend incentives for Felix's noticeable cont
 * CF Ambassadors liaison
 * Provides a transparent view of fund distributions
 
+New End Date: 8th August 2022
+
 ### Supporters of the 01.04.2022 Extension Statement
 
 * Tevo

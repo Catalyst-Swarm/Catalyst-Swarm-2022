@@ -4,6 +4,7 @@
 * [Explore & Connect](explore-and-connect.md)
 * [Events](events.md)
 * [Community Catalyser Rewards](community-catalyser-rewards.md)
+* [Felix's Rewards](felixs-rewards.md)
 
 ## March 2022
 

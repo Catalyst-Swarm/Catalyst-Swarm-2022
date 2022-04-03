@@ -1,10 +1,33 @@
 # Community Catalyser Rewards
 
+## 01.04.2022 Extension Statement
+
+Several "Swarm Veterans" agreed to extend incentives for Felix's noticeable contributions:
+
+* Regular TH & ATH support
+* Helps with mentorship & facilitation
+  * Moderating community spaces
+  * Keeps the community informed with opportunities
+* CC Admin group participation
+* ETH group participation & support
+* CF Ambassadors liaison
+* Provides a transparent view of fund distributions
+
+### Supporters of the 01.04.2022 Extension Statement
+
+* Tevo
+* Stephen
+* Jadjei
+* Quasar
+* JP
+* Nori
+* George
+
 ## Context&#x20;
 
 This is the consensus reached during a Discord discussion between a sample of “Swarm Veterans” starting at 01:02 on January 20th, 2022 and concluding at 15:54 on January 21st, 2022 UTC.
 
-Felix did not prompt and was not party to this discussion.
+Felix did not prompt and was not a party to this discussion.
 
 ## Opening Statement
 

@@ -3,8 +3,8 @@
 * [Catalyst Swarm 2022](README.md)
 * [Explore & Connect](explore-and-connect.md)
 * [Events](events.md)
-* [Community Catalyser Rewards](community-catalyser-rewards.md)
-* [Felix's Rewards](felixs-rewards.md)
+* [Community Catalyser Rewards](community-catalyser-rewards/README.md)
+  * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
 ## March 2022
 

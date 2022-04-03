@@ -1,3 +1,7 @@
+---
+description: Discussion from the Catalyst Swarm Community on rewards & remunartion
+---
+
 # Community Catalyser Rewards
 
 ## 01.04.2022 Extension Statement

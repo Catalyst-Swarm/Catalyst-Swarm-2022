@@ -8,7 +8,7 @@
 
 ## April 2022
 
-* [Page 1](april-2022/page-1.md)
+* [Catalyst Town Halls - April 2022](april-2022/catalyst-town-halls-april-2022.md)
 
 ## March 2022
 

@@ -10,6 +10,14 @@
 
 {% embed url="https://docs.google.com/presentation/d/15sF40BIfjOo9eQGG36bVFbc6BlBTkob84FPAsFkmvpU/edit?usp=sharing" %}
 
+## Breakout Rooms
+
+## Wolfram Governance Analytics
+
+{% embed url="https://youtu.be/EI7Cl-EKJIo" %}
+
+Wolfram hosting a open Session in the Catalyst Swarm After Town Hall on March 30. Link to the proposal: [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbHlndVl0Q3plUWNGUWRDUDU3d2dobmQxODlEd3xBQ3Jtc0trMmVaQmFPdjBOTDZYWS0xVHNxRU50bFBlNXdwMDNwRnZnbjJmQ0ViblZuak5FZVI0ZWQwV0NWMnBTU3lNVFZnMVpFT25WaEthdXgxaEltUE5tOVFtSUN2WWlXWmNmMW43MGRfbnFXbzFyM29NSS11Zw\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F400301\&v=EI7Cl-EKJIo) More about Wolfram: [https://www.wolfram.com/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGMyeXNSczh3bldZN1lJbS1ObU8ycUZrbDVud3xBQ3Jtc0tuS0IwOWx2cmY0N1pZY040UGlUM1dXVnRPV1lLald0WG8wUWV4eUNIUVlRVGltMElWWS1LdmRudUNJVERFMzVPTHVYUV9YSDRYTnpMcWg3eTZBcWNQZVBpbE9GR1g4ZW1zbkhOZEc3ckVyb2pWTzduSQ\&q=https%3A%2F%2Fwww.wolfram.com%2F\&v=EI7Cl-EKJIo)
+
 ## 23rd March 2022
 
 {% embed url="https://youtu.be/jmXfbeFlrfU" %}

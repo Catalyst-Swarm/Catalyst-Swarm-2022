@@ -18,6 +18,12 @@
 
 Wolfram hosting a open Session in the Catalyst Swarm After Town Hall on March 30. Link to the proposal: [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbHlndVl0Q3plUWNGUWRDUDU3d2dobmQxODlEd3xBQ3Jtc0trMmVaQmFPdjBOTDZYWS0xVHNxRU50bFBlNXdwMDNwRnZnbjJmQ0ViblZuak5FZVI0ZWQwV0NWMnBTU3lNVFZnMVpFT25WaEthdXgxaEltUE5tOVFtSUN2WWlXWmNmMW43MGRfbnFXbzFyM29NSS11Zw\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F400301\&v=EI7Cl-EKJIo) More about Wolfram: [https://www.wolfram.com/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGMyeXNSczh3bldZN1lJbS1ObU8ycUZrbDVud3xBQ3Jtc0tuS0IwOWx2cmY0N1pZY040UGlUM1dXVnRPV1lLald0WG8wUWV4eUNIUVlRVGltMElWWS1LdmRudUNJVERFMzVPTHVYUV9YSDRYTnpMcWg3eTZBcWNQZVBpbE9GR1g4ZW1zbkhOZEc3ckVyb2pWTzduSQ\&q=https%3A%2F%2Fwww.wolfram.com%2F\&v=EI7Cl-EKJIo)
 
+## Open Source Challenges
+
+{% embed url="https://youtu.be/8zC-pa5MHQg" %}
+
+Join Johnny Nguyen from IOG OSS, Patrick Suzzi from Catalyst F8 Challenge - OSDE, and Ninh Tran from Snapbrillia as the community discusses the biggest Open-Source challenges in and out of Cardano. Presentation: [https://bit.ly/3ISlpVq](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbTFXOUxMbnUyeEJWM3lTN1JmeU52em4zNU90UXxBQ3Jtc0ttWkVlbUhwZUZCdWROS2hwUlJDMUs2bVNxWUJ4a056MjlWQWJ1cHNtTGtrazlxbUNJLWcxd20zbld3VTVTaXo3Tk1nUW5oU3BPLXI0ZHAwZFNrbmVzZFRuaW9rREJ4V09zcldyaXoxUXhUOUJuUEp6WQ\&q=https%3A%2F%2Fbit.ly%2F3ISlpVq) Chat: [https://bit.ly/3LrGNCl](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbU9hU0xkb1luTDZSUE0zbFNZQjZiWkxYU2RvQXxBQ3Jtc0tuNFF1QUJhZWtPMm1NVnFQLVY3NndqQjJ3Wk1xX19aeGRGNDBBUEpNMk5jN0F1WXpKdWw3TThFZzNSVDlOUXVpVlpjWkFlRTlkX1puMmtFVl9ESkdWaU9iY3dOZEdFQ19nSW5ZclhXaWp2OURxRVo2VQ\&q=https%3A%2F%2Fbit.ly%2F3LrGNCl)
+
 ## 23rd March 2022
 
 {% embed url="https://youtu.be/jmXfbeFlrfU" %}

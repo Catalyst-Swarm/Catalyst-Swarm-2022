@@ -6,6 +6,10 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## April 2022
+
+* [Page 1](april-2022/page-1.md)
+
 ## March 2022
 
 * [Catalyst Town Halls - March 2022](march-2022/catalyst-town-halls-march-2022.md)
@@ -27,7 +31,3 @@
 
 * [Budget](fund-7-reporting/budget.md)
 * [Monthly Reports](fund-7-reporting/monthly-reports.md)
-
-## April 2022
-
-* [Page 1](april-2022/page-1.md)

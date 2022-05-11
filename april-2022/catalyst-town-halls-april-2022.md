@@ -42,6 +42,12 @@ Catalyst Community dReps Letter - https://bit.ly/3Olqt8y Community Governance Ov
 
 Join James Willingham (Snapbrillia), BJoin James Willingham (Snapbrillia), Beatrice Thelisma (Snapbrillia), Frank Albanese, (Snapbrillia) Ninh Tran (Snapbrillia), Tasos Valtinos (Snapbrillia), Shan Zhang (Snapbrillia), Justin Sabal (Snapbrillia), Kenric Nelson (Photrek), Megan W, Henry Wales, Ashton Engberg (Oscilliware), Harsha Gullapalli (Konma), Vinay Devabhaktuni (Konma), and many others as the team transparently shares a detailed technical plan for Snapbrillia's fund 8 proposals OpenSource Quadratic Voting Funding and Mentor-Mentee Bounties & eLearning to address an anonymous CA’s questions: https://cardano.ideascale.com/c/idea/396834/comments/408532
 
+### F8 Problem & Solution Sensing Pt 2
+
+{% embed url="https://youtu.be/hyL4UKjGE-A" %}
+
+
+
 ## April 13th 2022
 
 {% embed url="https://youtu.be/B5tV7qwbAfE" %}

@@ -28,6 +28,12 @@ Lidonation hosting a After Town Hall space and opening a conversation about Open
 
 have a look on it by yourself :) https://www.lidonation.com/en
 
+### Building on chain reputation
+
+{% embed url="https://youtu.be/mshWWsgs54E" %}
+
+During this Break out room, we discussed how to build an on-chain reputation on Cardano and solve the main challenges around having this subject. Host: Stephania Silva, GoingUP
+
 ## April 20th 2022
 
 {% embed url="https://youtu.be/ppM_ogWPcJw" %}

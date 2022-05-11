@@ -28,6 +28,14 @@ Slides: https://bit.ly/3xIeNGX Chat: https://bit.ly/3EvxDCR
 
 \#cardano #catalyst #DEI #diversity #equity #inclusion
 
+### Cardano Treasury with Kevin Hammond & Jared Corduan
+
+{% embed url="https://youtu.be/yG0lifQOaFk" %}
+
+Resources:
+
+Catalyst Community dReps Letter - https://bit.ly/3Olqt8y Community Governance Oversight Documentation - https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond
+
 ## April 13th 2022
 
 {% embed url="https://youtu.be/B5tV7qwbAfE" %}

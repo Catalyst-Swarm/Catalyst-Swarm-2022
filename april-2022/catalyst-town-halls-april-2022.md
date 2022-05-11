@@ -36,6 +36,12 @@ Resources:
 
 Catalyst Community dReps Letter - https://bit.ly/3Olqt8y Community Governance Oversight Documentation - https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond
 
+### Snapbrillia MVP Detailed Technical Plan
+
+{% embed url="https://youtu.be/zSSddSS2U_k" %}
+
+Join James Willingham (Snapbrillia), BJoin James Willingham (Snapbrillia), Beatrice Thelisma (Snapbrillia), Frank Albanese, (Snapbrillia) Ninh Tran (Snapbrillia), Tasos Valtinos (Snapbrillia), Shan Zhang (Snapbrillia), Justin Sabal (Snapbrillia), Kenric Nelson (Photrek), Megan W, Henry Wales, Ashton Engberg (Oscilliware), Harsha Gullapalli (Konma), Vinay Devabhaktuni (Konma), and many others as the team transparently shares a detailed technical plan for Snapbrillia's fund 8 proposals OpenSource Quadratic Voting Funding and Mentor-Mentee Bounties & eLearning to address an anonymous CA’s questions: https://cardano.ideascale.com/c/idea/396834/comments/408532
+
 ## April 13th 2022
 
 {% embed url="https://youtu.be/B5tV7qwbAfE" %}

@@ -24,6 +24,16 @@ Wolfram hosting a open Session in the Catalyst Swarm After Town Hall on March 30
 
 Join Johnny Nguyen from IOG OSS, Patrick Suzzi from Catalyst F8 Challenge - OSDE, and Ninh Tran from Snapbrillia as the community discusses the biggest Open-Source challenges in and out of Cardano. Presentation: [https://bit.ly/3ISlpVq](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbTFXOUxMbnUyeEJWM3lTN1JmeU52em4zNU90UXxBQ3Jtc0ttWkVlbUhwZUZCdWROS2hwUlJDMUs2bVNxWUJ4a056MjlWQWJ1cHNtTGtrazlxbUNJLWcxd20zbld3VTVTaXo3Tk1nUW5oU3BPLXI0ZHAwZFNrbmVzZFRuaW9rREJ4V09zcldyaXoxUXhUOUJuUEp6WQ\&q=https%3A%2F%2Fbit.ly%2F3ISlpVq) Chat: [https://bit.ly/3LrGNCl](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbU9hU0xkb1luTDZSUE0zbFNZQjZiWkxYU2RvQXxBQ3Jtc0tuNFF1QUJhZWtPMm1NVnFQLVY3NndqQjJ3Wk1xX19aeGRGNDBBUEpNMk5jN0F1WXpKdWw3TThFZzNSVDlOUXVpVlpjWkFlRTlkX1puMmtFVl9ESkdWaU9iY3dOZEdFQ19nSW5ZclhXaWp2OURxRVo2VQ\&q=https%3A%2F%2Fbit.ly%2F3LrGNCl)
 
+### F8 Discovery Session: Improvements & Opportunities
+
+{% embed url="https://youtu.be/IvedHhbz578" %}
+
+F8 Improvements Sensing
+
+Recorded: March 30, 2022
+
+catalystswarm.com
+
 ## 23rd March 2022
 
 {% embed url="https://youtu.be/jmXfbeFlrfU" %}

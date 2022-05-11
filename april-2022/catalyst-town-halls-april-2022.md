@@ -16,6 +16,18 @@
 
 {% embed url="https://docs.google.com/presentation/d/1f_AFmCkhIy65gP_HfNtJL2B5iJHNYXYiMeB2qIb3jAw/edit?usp=sharing" %}
 
+### Breakout Rooms
+
+### Cardano & Diversity, Equity, Inclusion
+
+{% embed url="https://youtu.be/IBoJUTuQSQw" %}
+
+Join Beatrice Thelisma (Snapbrillia), Ashton Engberg (Oscilliware), Gabriel Bardawil, Alan Casey (Edify), Mohamed Eya, Harsha Gullapalli (Konma), Vinay Devabhaktuni (Konma), Nori Nishigaya (SANADA), Joss Avila, Tasos Valtinos, James Willingham, Frank Albanese, Ninh Tran (Snapbrillia) and many others as the community discusses Cardano & Diversity, Equity, Inclusion and why it matters.
+
+Slides: https://bit.ly/3xIeNGX Chat: https://bit.ly/3EvxDCR
+
+\#cardano #catalyst #DEI #diversity #equity #inclusion
+
 ## April 13th 2022
 
 {% embed url="https://youtu.be/B5tV7qwbAfE" %}

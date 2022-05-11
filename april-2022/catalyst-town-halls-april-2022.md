@@ -1,6 +1,6 @@
 # Catalyst Town Halls - April 2022
 
-## BApril 27th 2022
+## April 27th 2022
 
 {% embed url="https://youtu.be/fCGifAkW-yM" %}
 

@@ -34,6 +34,12 @@ have a look on it by yourself :) https://www.lidonation.com/en
 
 During this Break out room, we discussed how to build an on-chain reputation on Cardano and solve the main challenges around having this subject. Host: Stephania Silva, GoingUP
 
+### PCDiscord Server - Overview and Governance
+
+{% embed url="https://youtu.be/jF-KkJM0uAI" %}
+
+Visual Update on the Miro Board for Project Catalyst Discord Server.
+
 ## April 20th 2022
 
 {% embed url="https://youtu.be/ppM_ogWPcJw" %}

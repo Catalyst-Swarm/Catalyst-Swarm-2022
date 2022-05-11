@@ -2,7 +2,7 @@
 
 ## April 13th 2022
 
-Recording Placeholder
+{% embed url="https://youtu.be/B5tV7qwbAfE" %}
 
 ### Slides
 

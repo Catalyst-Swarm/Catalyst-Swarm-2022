@@ -1,8 +1,24 @@
 # Catalyst Town Halls - April 2022
 
+## April 27th 2022
+
+{% embed url="https://youtu.be/fCGifAkW-yM" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/17zemRoTTp9MZgMGoCHQbHDMQWDG9IK8ZqiuSW0iPcNw/edit?usp=sharing" %}
+
+## April 20th 2022
+
+{% embed url="https://youtu.be/ppM_ogWPcJw" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1f_AFmCkhIy65gP_HfNtJL2B5iJHNYXYiMeB2qIb3jAw/edit?usp=sharing" %}
+
 ## April 13th 2022
 
-Recording Placeholder
+{% embed url="https://youtu.be/B5tV7qwbAfE" %}
 
 ### Slides
 

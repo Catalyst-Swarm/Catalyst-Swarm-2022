@@ -20,6 +20,14 @@ Slides: https://bit.ly/3MwGQNS Chat: https://bit.ly/3EScJ0T
 
 \#snapbrillia #catalyst #cardano #funding #open #source #ecosystem #oss #fund8
 
+### Catalyst Open Data API with Lidonation, AIM, QA DAO & Swarm
+
+{% embed url="https://youtu.be/5YJr0PfBy9I" %}
+
+Lidonation hosting a After Town Hall space and opening a conversation about Open Data & API in Project Catalyst. Later, the coonversation goes into a feedback session to get community insights on the launched LidoNation voter tool and the People section
+
+have a look on it by yourself :) https://www.lidonation.com/en
+
 ## April 20th 2022
 
 {% embed url="https://youtu.be/ppM_ogWPcJw" %}

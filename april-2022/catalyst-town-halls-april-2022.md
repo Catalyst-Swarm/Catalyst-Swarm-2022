@@ -43,3 +43,16 @@ Join Frank Albanese (Snapbrillia), Lance Byrd (RootsID), Nick Mason (ProofSpace)
 Presentation: https://bit.ly/3OmuIRx Chat: https://bit.ly/3LZM1pm
 
 \#cardano #catalyst #ssi #proofofreputation
+
+### Open Source Perspectives
+
+{% embed url="https://youtu.be/7j-qRVts_BA" %}
+
+Join Patrick Suzzi from Catalyst F8 OSDE Challenge, Stephen Whitenstall (Community Governance Oversight/QA DAO), Ashton Engberg, Elen Nas, James Willingham (Snapbrillia), and Ninh Tran (Snapbrillia) as the community discusses the different perspectives on contributing and open-sourcing on Cardano.
+
+Presentation: https://bit.ly/3DOfb83 Chat: https://bit.ly/3r6QJK0
+
+\#cardano #catalyst #opensource
+
+
+

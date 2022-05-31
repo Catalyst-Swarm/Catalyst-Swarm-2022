@@ -1,8 +1,8 @@
 # Budget
 
-1,291.98 ADA&#x20;
+1,291.98 ADA left in Swarm Genesis wallet
 
-##
+$ 1450 after Swarm 2022 closing report&#x20;
 
 ##
 

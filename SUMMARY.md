@@ -6,6 +6,10 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## June 2022
+
+* [Catalyst Town Halls - June 2022](june-2022/catalyst-town-halls-june-2022.md)
+
 ## May 2022
 
 * [Catalyst Town Halls - May 2022](may-2022/page-2.md)

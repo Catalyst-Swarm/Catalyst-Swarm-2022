@@ -10,7 +10,7 @@ Join Daniel Ribar (Community Manager) and the rest of the community for the 1st 
 
 {% embed url="https://docs.google.com/presentation/d/1Tfh2J-EwrxfbYO6uBjg18dpRmbtuBTFuiDGt_IvkMpY/edit#slide=id.g130a93bb4b3_0_4275" %}
 
-### Breakout room&#x20;
+### Breakout rooms&#x20;
 
 ### Collaboration for Community DAOs
 

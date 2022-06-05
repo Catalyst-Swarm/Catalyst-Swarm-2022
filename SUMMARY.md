@@ -12,8 +12,8 @@
 
 ## May 2022
 
-* [Catalyst Swarm](may-2022/catalyst-swarm.md)
 * [Catalyst Town Halls - May 2022](may-2022/page-2.md)
+* [Swarm Sessions - May 2022](may-2022/swarm-sessions-may-2022.md)
 
 ## April 2022
 

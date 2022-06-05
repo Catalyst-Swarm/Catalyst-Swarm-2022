@@ -472,7 +472,7 @@ Miro Board link: [https://miro.com/app/board/uXjVOXVhuVk=/?invite\_link\_id=7015
 
 ## How to nurture a culture of listening in Catalyst
 
-#### Stephen Whitenstall - [QA-DAO](https://quality-assurance-dao.github.io)
+#### Stephen Whitenstall - [QA-DAO](https://quality-assurance-dao.github.io/)
 
 {% embed url="https://youtu.be/_gKsEYrbNQQ" %}
 

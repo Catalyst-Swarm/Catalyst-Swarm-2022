@@ -14,5 +14,5 @@ We are exploring a world where anyone, anywhere may express his or her beliefs, 
 
 We create a civilization and Society of the Mind in Cyberspace. May it be more humane and fair than the world our governments have made before.
 
-Inspired by by [John Perry Barlow](https://en.wikipedia.org/wiki/John\_Perry\_Barlow) & [The Electronic Frontier Foundation](https://www.eff.org)
+Inspired by by [John Perry Barlow](https://en.wikipedia.org/wiki/John\_Perry\_Barlow) & [The Electronic Frontier Foundation](https://www.eff.org/)
 

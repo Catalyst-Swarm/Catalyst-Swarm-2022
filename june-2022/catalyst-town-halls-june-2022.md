@@ -16,4 +16,12 @@ Join Daniel Ribar (Community Manager) and the rest of the community for the 1st 
 
 {% embed url="https://www.youtube.com/watch?v=1vo5lo3-bSI" %}
 
-Aharon Porath & Dan Kimbal hosting a conversation in the Catalyst Swarm After Town Hall about Collaborations for Community DAOs on Cardano.\
+Aharon Porath & Dan Kimbal hosting a conversation in the Catalyst Swarm After Town Hall about Collaborations for Community DAOs on Cardano.
+
+### Atala PRISM | SSI DID - RootsID+ Snapbrilla Demo
+
+{% embed url="https://www.youtube.com/watch?t=2s&v=k0hNIMgi-lE" %}
+
+Catch up on the RootsID & Snapbrilla Demo, recorded on June 1st at Catalyst Swarm After Town Hall.
+
+\

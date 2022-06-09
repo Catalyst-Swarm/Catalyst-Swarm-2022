@@ -1,6 +1,6 @@
 # Catalyst Town Halls - June 2022
 
-## 1th June 2022
+## 1st June 2022
 
 {% embed url="https://www.youtube.com/watch?v=lPVlX3wVDBk" %}
 

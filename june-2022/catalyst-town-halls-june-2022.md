@@ -24,4 +24,12 @@ Aharon Porath & Dan Kimbal hosting a conversation in the Catalyst Swarm After To
 
 Catch up on the RootsID & Snapbrilla Demo, recorded on June 1st at Catalyst Swarm After Town Hall.
 
-\
+## 8th June 2022
+
+{% embed url="https://www.youtube.com/watch?v=dCbv0ne1yYM" %}
+
+Join Daniel Ribar (Community Manager) and the rest of the community for the 2nd town hall of Fund 9.
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1DpVG6aTpQLvInsEgnPoUy6acqRiVduL-Ac6XSqjrxAk/edit#slide=id.g130a93bb4b3_0_4275" %}

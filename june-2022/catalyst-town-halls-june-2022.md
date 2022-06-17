@@ -55,3 +55,25 @@ Introducing Citizen Assemblies with George Zarkadakis, CEO at Voxiberate and Aut
 {% embed url="https://www.youtube.com/watch?v=W9g1idg6KY0" %}
 
 Catalyst Swarm After Town Hall on June 15 with Innovatio about Entrepreneurship & Freelancers More about Innovatio [https://twitter.com/InnovatioGroup](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa1dWRzgyMmVEZUZFWFFHbDlSQlgwOTdZTkk0d3xBQ3Jtc0tua3NwN1paWmkzZloyLTVyTUN4MUZNSno4Nm9jZnRLMFdHckRmMl9zTXdNNHEteVhNNzZXT0owTlVNMTVyU1IxTmFIMWdrRVZQLTg5SE12WTNwOEMtaVBMeXFNR0dvWThtSndlMHRic1VuOFNaNk5TUQ\&q=https%3A%2F%2Ftwitter.com%2FInnovatioGroup\&v=W9g1idg6KY0).
+
+### DAOs love cardano
+
+
+
+{% embed url="https://www.youtube.com/watch?v=volx2k6U6SA" %}
+
+Join a great discussion and find out why DAOs love Cardano :)&#x20;
+
+Dive deep Meeting notes - [https://docs.google.com/document/d/1V...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbmoxUEVSQ2RVUjdXLWFRVmtheXQ1WkRkdy1QQXxBQ3Jtc0tsNmVycnlrbmhRdUQyazYxM2t0SG9ESmN0dFhLMVhBYTRLOTVsVGRZd056cFRKSDMxTjVlUVdZZ2hNaE5ub1BJRF9CbHVSZ0tqR2xJN2hjR2g4MG9zS1hKSXhPMFhTOWFuSXRUcElacHJIOUNlRWhBQQ\&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1VAj3b-DDW6PLOK2DCSkuq3nNV0Ll1HTF4WfEUvPXkvw%2Fedit%3Fusp%3Dsharing\&v=volx2k6U6SA)&#x20;
+
+CT miro board - [https://miro.com/app/board/uXjVOwRHXhY=/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbU4yNGF4am1wd1U5ZWg1ZkQwNnNsTW1IT2dLUXxBQ3Jtc0tuU0hDWlN6eTkySE9FcEVhSGhtQ1hPVDFmd2pabDBOc05UQVloQS1nRjM3enVKZzMwcVlFZjduZWtNMVFlejd2VGpaZjhtQmp5VXFRb21SSTI3NEs3emEwdDV3VkFCa1R2ZF9IRmVMTDU5MzZzYXdCNA\&q=https%3A%2F%2Fmiro.com%2Fapp%2Fboard%2FuXjVOwRHXhY%3D%2F\&v=volx2k6U6SA)&#x20;
+
+"Catalyst GPS" (by Tomi) slides - [https://docs.google.com/presentation/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa0tGekdPYkowQU5qUnBnclVUaG1nSlZyRkhfUXxBQ3Jtc0tseTY0anFIM2pmbFBYQ1ZsVm9UZVhjYnYxOVpSRTV1LWdCTEY5VkMxWk9USV9scFo2MmF1a1pOYWNuN0ZqQmZoZ0x6enROMS1oZi1DVWFyR253ZTYzVHcxLTNudUJxcEZxMzVIdFUweXBUMVRfQW84NA\&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F13mkM6bg8QRcPXc9tDHuHQTXOfuNHZSbl8Mkf5b6IKPk%2Fedit%3Fusp%3Dsharing\&v=volx2k6U6SA)&#x20;
+
+proposal - [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqblUxRmR0VjBTa3hzaWp2N21wVm5laTlGdFNJZ3xBQ3Jtc0tsM0FLV1IyeVVmLVhnc2lQdGd1R0dQcll2U3lQTjR6aEZpRXZ4MTMyTm1GamZvNGFvRzFsZkdKMHluY3BwWUFfeW81MzRqNnZfSkNTd0FKeWxEYlgtUy1rM2p0VkFTQ3JNOWhqLTQwWEx1RzNrcjhxSQ\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F398299\&v=volx2k6U6SA)&#x20;
+
+Consenz slides - [https://docs.google.com/presentation/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGZxdV9iNk5wSFFpallubGxOa08xVC1LNktBd3xBQ3Jtc0tsbEpnMFE3M3BPVWwyRDY5aXZPTG5YMnZFTGxYRTZZZXllNjBIcFVCVUxYbGtpZUV6ZDAzTnkyMWVuaUlMOW9jOGZHV0JGYVdCeFpUUG1vNklxcElLdVJiSnRaWl9vbDFmQVE4eVRrWlZlNkl1REgxdw\&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1mN67olcX0QRQYP4HbPStffdM5G1m\_M4zNmG6mwWP-\_I%2Fedit%3Fusp%3Dsharing\&v=volx2k6U6SA)&#x20;
+
+CNGO Cause&#x20;
+
+Support Ecosystem proposal - [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbVMyUkp4ME43SktuV25tcjVIVzFfWE9zM3dxd3xBQ3Jtc0tsVS1xR1RGMGhVRzllNkp4aDJEb0ZDTXdvVWl5WGhvalp5YkdGVW5aOG9rSXFNalctUzFrUWZtWnRhUkZNY1U0ME1GZVBUOGVScVNhanpxTDlJNzFacF9mbXh4ODZfVjUtU0ZKR1YtVGxJcXhPMElPQQ\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F415015\&v=volx2k6U6SA)

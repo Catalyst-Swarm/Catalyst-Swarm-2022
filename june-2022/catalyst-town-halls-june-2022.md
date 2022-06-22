@@ -77,3 +77,11 @@ Consenz slides - [https://docs.google.com/presentation/...](https://www.youtube.
 CNGO Cause&#x20;
 
 Support Ecosystem proposal - [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbVMyUkp4ME43SktuV25tcjVIVzFfWE9zM3dxd3xBQ3Jtc0tsVS1xR1RGMGhVRzllNkp4aDJEb0ZDTXdvVWl5WGhvalp5YkdGVW5aOG9rSXFNalctUzFrUWZtWnRhUkZNY1U0ME1GZVBUOGVScVNhanpxTDlJNzFacF9mbXh4ODZfVjUtU0ZKR1YtVGxJcXhPMElPQQ\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F415015\&v=volx2k6U6SA)
+
+### SSI//Atala PRISM
+
+
+
+{% embed url="https://www.youtube.com/watch?v=yGDwSLTWVVA" %}
+
+Time for questions/feedback for the Atala PRISM pioneer program and an opportunity for anyone with an SSI related proposal for project catalyst to present their idea/proposal for feedback from the community!

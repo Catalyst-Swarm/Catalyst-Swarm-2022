@@ -85,3 +85,11 @@ Support Ecosystem proposal - [https://cardano.ideascale.com/c/idea/...](https://
 {% embed url="https://www.youtube.com/watch?v=yGDwSLTWVVA" %}
 
 Time for questions/feedback for the Atala PRISM pioneer program and an opportunity for anyone with an SSI related proposal for project catalyst to present their idea/proposal for feedback from the community!
+
+## 22th June 2022
+
+{% embed url="https://www.youtube.com/watch?v=cGLf6I65NZI" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1nQhXTiicb3x7pQiVRJjDM-g6LyUd2YjD2e_Qy2ZEicw/edit#slide=id.g13229eb4eb3_0_2744" %}

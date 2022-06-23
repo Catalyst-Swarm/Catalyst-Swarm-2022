@@ -93,3 +93,12 @@ Time for questions/feedback for the Atala PRISM pioneer program and an opportuni
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1nQhXTiicb3x7pQiVRJjDM-g6LyUd2YjD2e_Qy2ZEicw/edit#slide=id.g13229eb4eb3_0_2744" %}
+
+### Breakout rooms&#x20;
+
+### Innovatio - Entrepreneurship and Community Building
+
+{% embed url="https://www.youtube.com/watch?t=4&v=kKfR3I9F3o0" %}
+\
+
+{% endembed %}

@@ -99,6 +99,9 @@ Time for questions/feedback for the Atala PRISM pioneer program and an opportuni
 ### Innovatio - Entrepreneurship and Community Building
 
 {% embed url="https://www.youtube.com/watch?t=4&v=kKfR3I9F3o0" %}
-\
 
-{% endembed %}
+### DAOs love Cardano
+
+{% embed url="https://www.youtube.com/watch?v=e7-wH9xV1EE" %}
+
+Great discussions and presentations from the Catalyst Swarm Breakout room on June 22.

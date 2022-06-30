@@ -105,3 +105,11 @@ Time for questions/feedback for the Atala PRISM pioneer program and an opportuni
 {% embed url="https://www.youtube.com/watch?v=e7-wH9xV1EE" %}
 
 Great discussions and presentations from the Catalyst Swarm Breakout room on June 22.
+
+## 30th June 2022
+
+{% embed url="https://www.youtube.com/watch?v=UnxKxhemez4" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1G5tPByMpQmLw8wDL1h9qDsAWreD8d2D3c1KUUma4zcc/edit#slide=id.g130a93bb4b3_0_4275" %}

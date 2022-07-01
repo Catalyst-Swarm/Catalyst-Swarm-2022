@@ -113,3 +113,13 @@ Great discussions and presentations from the Catalyst Swarm Breakout room on Jun
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1G5tPByMpQmLw8wDL1h9qDsAWreD8d2D3c1KUUma4zcc/edit#slide=id.g130a93bb4b3_0_4275" %}
+
+### Breakout rooms
+
+### HomelessHub
+
+{% embed url="https://www.youtube.com/watch?v=mNxfzrGrHzI" %}
+
+Homeless Posse (the group who took part in the fund 6 proposal Homeless Hub) lead an After Town Hall discussion on "Wealth, Poverty and what would real-world impact look like?"
+
+The group are based in Salford, UK, and for the last 3 months have been exploring questions about wealth, money, different approaches to value, ways to rethink the economic system, and more. They are making an interactive artwork to engage local people in Salford with these questions.

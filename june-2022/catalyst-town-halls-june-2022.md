@@ -124,8 +124,6 @@ Homeless Posse (the group who took part in the fund 6 proposal Homeless Hub) lea
 
 The group are based in Salford, UK, and for the last 3 months have been exploring questions about wealth, money, different approaches to value, ways to rethink the economic system, and more. They are making an interactive artwork to engage local people in Salford with these questions.
 
-### Breakout rooms
-
 ### Snapbrilla Monthly Progress & Demo
 
 {% embed url="https://www.youtube.com/watch?v=uLT-1NWhQ-M" %}

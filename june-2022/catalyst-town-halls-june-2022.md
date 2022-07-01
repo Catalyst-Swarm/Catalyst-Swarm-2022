@@ -133,3 +133,21 @@ The group are based in Salford, UK, and for the last 3 months have been explorin
 Snapbrillia is launching in July! [https://linktr.ee/votesnapbrillia](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbktGUVk5cXQ3VF9aa0dnOUxOQmNKZkRmVGRNQXxBQ3Jtc0tuWWlfWU5admp6TnFWczg2eHBRZDVibWNZczhZVFlZclhMSnNydGR5bEdwellBUkFST04yeU5DVjBMbVVLT3lTa0ZaN21JdVNGUGp4SWxpbl9VMmxWZjVYcVJsMHVrMi1DSXh1Tk9Ld2FyX0xhVm1YRQ\&q=https%3A%2F%2Flinktr.ee%2Fvotesnapbrillia\&v=uLT-1NWhQ-M)&#x20;
 
 Sign up for launch announcements and please vote on Catalyst. Join Snapbrillia monthly projects progress and demo the community with Ninh Tran (Snapbrillia), James Willingham (Snapbrillia), Beatrice Thelisma (Snapbrillia), and many others in the Cardano Catalyst community.
+
+### C4S - Cardano 4 Seniors
+
+{% embed url="https://www.youtube.com/watch?t=1926s&v=8eBYdagevp4" %}
+
+Do we need the Brain Capital of Seniors in Catalyst? Many retired Professionals, educators, Engineers,Scientists and Farmers are idle. Could we help them to help us?
+
+### Bringing Utility to CNFTs
+
+{% embed url="https://www.youtube.com/watch?v=XYj6hrUvmWk" %}
+
+Tangent's breakout room hopes to raise discussions regarding alternative utility for CNFTs whilst discussing what we can all be doing to support digital artists who pledge to create on Cardano
+
+### Entrepreneurship and Community Building
+
+{% embed url="https://www.youtube.com/watch?v=7yujqx-s9bc" %}
+
+Room dedicated to talk about digital entrepreneurship and community building, share experiences, ideas and knowledge.

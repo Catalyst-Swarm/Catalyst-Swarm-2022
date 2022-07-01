@@ -123,3 +123,13 @@ Great discussions and presentations from the Catalyst Swarm Breakout room on Jun
 Homeless Posse (the group who took part in the fund 6 proposal Homeless Hub) lead an After Town Hall discussion on "Wealth, Poverty and what would real-world impact look like?"
 
 The group are based in Salford, UK, and for the last 3 months have been exploring questions about wealth, money, different approaches to value, ways to rethink the economic system, and more. They are making an interactive artwork to engage local people in Salford with these questions.
+
+### Breakout rooms
+
+### Snapbrilla Monthly Progress & Demo
+
+{% embed url="https://www.youtube.com/watch?v=uLT-1NWhQ-M" %}
+
+Snapbrillia is launching in July! [https://linktr.ee/votesnapbrillia](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbktGUVk5cXQ3VF9aa0dnOUxOQmNKZkRmVGRNQXxBQ3Jtc0tuWWlfWU5admp6TnFWczg2eHBRZDVibWNZczhZVFlZclhMSnNydGR5bEdwellBUkFST04yeU5DVjBMbVVLT3lTa0ZaN21JdVNGUGp4SWxpbl9VMmxWZjVYcVJsMHVrMi1DSXh1Tk9Ld2FyX0xhVm1YRQ\&q=https%3A%2F%2Flinktr.ee%2Fvotesnapbrillia\&v=uLT-1NWhQ-M)&#x20;
+
+Sign up for launch announcements and please vote on Catalyst. Join Snapbrillia monthly projects progress and demo the community with Ninh Tran (Snapbrillia), James Willingham (Snapbrillia), Beatrice Thelisma (Snapbrillia), and many others in the Cardano Catalyst community.

@@ -6,6 +6,11 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## JULY 2022
+
+* [Swarm Sessions - July2022](july-2022/swarm-sessions-july2022.md)
+* [Catalyst Town Halls - June 2022](july-2022/catalyst-town-halls-june-2022.md)
+
 ## June 2022
 
 * [Swarm Sessions - June 2022](june-2022/swarm-sessions-june-2022.md)

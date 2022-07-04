@@ -8,8 +8,8 @@
 
 ## JULY 2022
 
-* [Swarm Sessions - July2022](july-2022/swarm-sessions-july2022.md)
-* [Catalyst Town Halls - June 2022](july-2022/catalyst-town-halls-june-2022.md)
+* [Swarm Sessions - July 2022](july-2022/swarm-sessions-july-2022.md)
+* [Catalyst Town Halls - July 2022](july-2022/catalyst-town-halls-july-2022.md)
 
 ## June 2022
 

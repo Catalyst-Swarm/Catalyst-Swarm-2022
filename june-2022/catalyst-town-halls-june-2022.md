@@ -149,3 +149,9 @@ Tangent's breakout room hopes to raise discussions regarding alternative utility
 {% embed url="https://www.youtube.com/watch?v=7yujqx-s9bc" %}
 
 Room dedicated to talk about digital entrepreneurship and community building, share experiences, ideas and knowledge.
+
+### LearnerShape SkillsGraph&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=_r23e6e1G4k" %}
+
+Discussion of new LearnerShape SkillsGraph application and code at Project Catalyst After Town Hall on 29 June 2022.

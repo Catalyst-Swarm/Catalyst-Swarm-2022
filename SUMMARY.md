@@ -38,6 +38,7 @@
 * [Swarm Sessions - February 2022](february-2022/swarm-sessions.md)
 * [Catalyst School - February 2022](february-2022/catalyst-school-february-2022.md)
 * [Community Events - February 2022](february-2022/community-events-february-2022.md)
+* [Fund 7 Results](february-2022/fund-7-results.md)
 
 ## January 2022
 

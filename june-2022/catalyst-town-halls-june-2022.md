@@ -106,7 +106,7 @@ Time for questions/feedback for the Atala PRISM pioneer program and an opportuni
 
 Great discussions and presentations from the Catalyst Swarm Breakout room on June 22.
 
-## 30th June 2022
+## 29th June 2022
 
 {% embed url="https://www.youtube.com/watch?v=UnxKxhemez4" %}
 
@@ -155,3 +155,11 @@ Room dedicated to talk about digital entrepreneurship and community building, sh
 {% embed url="https://www.youtube.com/watch?v=_r23e6e1G4k" %}
 
 Discussion of new LearnerShape SkillsGraph application and code at Project Catalyst After Town Hall on 29 June 2022.
+
+### SheltersOnTheBlock - Bringing Utility to CNFTs
+
+{% embed url="https://www.youtube.com/watch?v=kRsT8QOX4VM" %}
+
+Tangent's breakout room hopes to raise discussions regarding alternative utility for CNFTs whilst discussing what we can all be doing to support digital artists who pledge to create on Cardano.
+
+\

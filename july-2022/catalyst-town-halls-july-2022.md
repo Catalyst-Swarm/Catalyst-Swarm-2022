@@ -72,4 +72,12 @@ We welcome feedback on the implementation of our Fund 8 project, which leverages
 
 {% embed url="https://www.youtube.com/watch?v=4hbbQ0CPDgk" %}
 
-Demo by Kevin Chen.\
+Demo by Kevin Chen.
+
+## 27th July 2022
+
+{% embed url="https://www.youtube.com/watch?v=5ezog-dlXSo" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/10oW_uY6KywLdfI3SHqj8ZCLPKhSraKi-3ruYDp0SiHU/edit#slide=id.g130a93bb4b3_0_4275" %}

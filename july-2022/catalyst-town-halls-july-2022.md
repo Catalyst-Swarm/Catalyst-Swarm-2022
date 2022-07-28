@@ -74,6 +74,12 @@ We welcome feedback on the implementation of our Fund 8 project, which leverages
 
 Demo by Kevin Chen.
 
+### Cardano & Global Legal Cannabis
+
+{% embed url="https://www.youtube.com/watch?v=k03QwOYbW5A" %}
+
+Rubic cubing how the newly evolving global cannabis industry can merge and support the Cardano Catalyst Community using blockchain, crypto and web3 opportunities.
+
 ## 27th July 2022
 
 {% embed url="https://www.youtube.com/watch?v=5ezog-dlXSo" %}

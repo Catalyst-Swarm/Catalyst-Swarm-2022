@@ -94,4 +94,12 @@ Rubic cubing how the newly evolving global cannabis industry can merge and suppo
 
 {% embed url="https://www.youtube.com/watch?v=tJAHD7vbGWc" %}
 
-Consenz - an agreements platform, was funded for improving the PA/vPA guidelines editing process. This session is for gathering feedback as part of consenz design. If you have participated in discussion around PA/vPA guidelines your input will be most appreciated.\
+Consenz - an agreements platform, was funded for improving the PA/vPA guidelines editing process. This session is for gathering feedback as part of consenz design. If you have participated in discussion around PA/vPA guidelines your input will be most appreciated.
+
+### Snapbrillia Pre-Launch Demo & Monthly Progress&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=HmgdAlTuGqQ" %}
+
+Snapbrillia is launching! Please sign up, share, and consider voting YES in F9: [https://linktr.ee/votesnapbrillia](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGxGb2VJcy03M0tpLXc4b2lwekRzbElVb2RyUXxBQ3Jtc0tubUJES2ZDUmdNWU5QT1JzbUMtUjQ1V25xdDN6YndkdkFwNXotWVA5SjUxajR2c3ZuclljM1BMcUJybEdkRWJTdUVpTjluaVJFYkE0cWlsNmRnV0xQaS1fSktDaWZDUGoyXzgybk1Rd0lxblJqSzV0cw\&q=https%3A%2F%2Flinktr.ee%2Fvotesnapbrillia\&v=HmgdAlTuGqQ)&#x20;
+
+Snapbrillia pre-launch demo and progress for the community with Ninh Tran (Snapbrillia), James Willingham (Snapbrillia), Beatrice Thelisma (Snapbrillia), and many others in the Cardano Catalyst community. Chat History: [https://snip.ly/vzbafu](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa1o3eTZnNlZQLV9MTVFhbm1IamtkYUZNdDJXQXxBQ3Jtc0tsZl9zT19McmVocmhleVBvZHliQnktUUNjc2k3Z1hZeGpDbEtFRXQ2WS1sbnp4RmVwLXR2WjRrVmJOWnhvYTgtMndVT2xxQXItVkhOQU9MQ0tEMENkVk91QnRNMEZES2FDVEdKUU9wQ2R0WDRDNnVyZw\&q=https%3A%2F%2Fsnip.ly%2Fvzbafu\&v=HmgdAlTuGqQ)\

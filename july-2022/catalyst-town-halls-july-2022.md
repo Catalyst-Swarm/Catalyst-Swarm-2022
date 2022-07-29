@@ -87,3 +87,11 @@ Rubic cubing how the newly evolving global cannabis industry can merge and suppo
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/10oW_uY6KywLdfI3SHqj8ZCLPKhSraKi-3ruYDp0SiHU/edit#slide=id.g130a93bb4b3_0_4275" %}
+
+## Breakout rooms
+
+### Consenz Co-Design Session
+
+{% embed url="https://www.youtube.com/watch?v=tJAHD7vbGWc" %}
+
+Consenz - an agreements platform, was funded for improving the PA/vPA guidelines editing process. This session is for gathering feedback as part of consenz design. If you have participated in discussion around PA/vPA guidelines your input will be most appreciated.\

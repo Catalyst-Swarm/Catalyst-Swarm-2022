@@ -32,4 +32,12 @@ Connecting Cardano with the fastest growing industry in the world - Legal Cannab
 
 {% embed url="https://www.youtube.com/watch?v=__f-uZiseVA" %}
 
-Building upon cardano's formal foundations, let's have a practical look at how we can transition from law in the analog space to law in the digital space - considering how it takes shape across industries, geographies and cultures.\
+Building upon cardano's formal foundations, let's have a practical look at how we can transition from law in the analog space to law in the digital space - considering how it takes shape across industries, geographies and cultures.
+
+## 10th August 2022
+
+{% embed url="https://www.youtube.com/watch?v=L2i8vhvT480" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1gfeoNgB0NUDzPs9l8FXIoymQND34_Rzwaj43uEvBKNA/edit#slide=id.gfdf0a4c8d2_0_53" %}

@@ -41,3 +41,11 @@ Building upon cardano's formal foundations, let's have a practical look at how w
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1gfeoNgB0NUDzPs9l8FXIoymQND34_Rzwaj43uEvBKNA/edit#slide=id.gfdf0a4c8d2_0_53" %}
+
+## 17h August 2022
+
+{% embed url="https://www.youtube.com/watch?v=4GMkGz333I0" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1HcHyTPblcTK5dWEJCLkJimuioV-6cVUqF3oOFH84d_8/edit#slide=id.g130a93bb4b3_0_4275" %}

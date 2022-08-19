@@ -49,3 +49,25 @@ Building upon cardano's formal foundations, let's have a practical look at how w
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1HcHyTPblcTK5dWEJCLkJimuioV-6cVUqF3oOFH84d_8/edit#slide=id.g130a93bb4b3_0_4275" %}
+
+## Breakout rooms
+
+### C4C Mini-ImpactFest
+
+{% embed url="https://www.youtube.com/watch?v=-I7I7ISmkxk" %}
+
+After incredible success last week, we continue ongoing mini ImpactFest. The party keeps going! Today, the C4C community gathers to hear YOUR Impact- related proposal. There is plenty of time to connect and collaborate. [https://cardano4climate.com/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbjVHcGFMZkVHVVFMdklJZC1KZkhkV3A0bWFzQXxBQ3Jtc0ttRllxd3p2V3ZVVGdXS3pfa3BnS08xVHFvMnF3cWg3cC1Id25lS0NFMlhCT3JBb3RlXzZaU3FhQUM5M0xhc0lFVGFNcWlSSk13Z2RYbi1SbjhUd3Zhb3FlR0x5STN1cEY3S2tKY0lpblNDZkR0M0NUUQ\&q=https%3A%2F%2Fcardano4climate.com%2F\&v=-I7I7ISmkxk) Hosted by: Newman Lanier.
+
+### CNFT Alliance w/ Sebastian
+
+{% embed url="https://www.youtube.com/watch?v=jHIkLCASG0A" %}
+
+Recurring Breakout Room, no description provided by host.
+
+### Atala PRISM Discussion with Fuixlabs
+
+{% embed url="https://www.youtube.com/watch?v=19Q4MSNN6RI" %}
+
+\
+\
+\

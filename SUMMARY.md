@@ -8,6 +8,7 @@
 
 ## AUGUST 2022
 
+* [Community Governance Oversight](august-2022/community-governance-oversight.md)
 * [Swarm Ideafest](august-2022/swarm-ideafest.md)
 * [Swarm Sessions - August 2022](august-2022/swarm-sessions-august-2022.md)
 * [Catalyst Town Halls - August 2022](august-2022/catalyst-town-halls-august-2022.md)

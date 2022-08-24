@@ -152,7 +152,68 @@
 
 {% embed url="https://www.youtube.com/watch?v=7vuLhfQZL98" %}
 
+### \[F9] SWARM Ideafest: Cardano developer courseware in Uni
+
+{% embed url="https://www.youtube.com/watch?v=Agfb74F3yJc" %}
+
+### \[F9] SWARM Ideafest: Metaverse Jobs & Gigs
+
+{% embed url="https://www.youtube.com/watch?v=cGFc6smuiiA" %}
+
+### \[F9] SWARM IdeaFest: The ArtSuite
+
+{% embed url="https://www.youtube.com/watch?v=mlDOgks39pI" %}
+
+### \[F9] SWARM IdeaFest: Like Kahoot - Quiz and bet with ADA
+
+{% embed url="https://www.youtube.com/watch?v=D0DNA4ktMbE" %}
+
+### \[F9] SWARM IdeaFest: TIP for Collaboration
+
+{% embed url="https://www.youtube.com/watch?v=_idHtQ3Kwa8" %}
+
+### \[F9] SWARM IdeaFest: Voteaire Escrow Smart Contract
+
+{% embed url="https://www.youtube.com/watch?v=2i620IPXL_0" %}
+
+### \[F9] SWARM Ideafest: Food Traceability by Cardano
+
+{% embed url="https://www.youtube.com/watch?v=1Fx718EgZws" %}
+
+### \[F9] SWARM IdeaFest: Mehen Finance
+
+{% embed url="https://www.youtube.com/watch?v=Y9Ya3pOReSc" %}
+
+### \[F9] SWARM IdeaFest: Impact NFTs for the Homeless SOTB
+
+{% embed url="https://www.youtube.com/watch?v=jPQaVjS0eJg" %}
+
+### \[F9] SWARM IdeaFest: Non Batching AMM DEX On Cardano
+
+{% embed url="https://www.youtube.com/watch?v=2i620IPXL_0" %}
+
 \
+\
+\
+\
+\
+\
+
+
+\
+\
+
+
+
+
+\
+
+
+\
+
+
+
+
 \
 \
 \

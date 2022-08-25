@@ -68,6 +68,14 @@ Recurring Breakout Room, no description provided by host.
 
 {% embed url="https://www.youtube.com/watch?v=19Q4MSNN6RI" %}
 
-\
-\
-\
+## 24h August 2022
+
+{% embed url="https://www.youtube.com/watch?v=tkDEk-hJp8s" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1tD90QQORuVkSBstdfagjm0P1HZftpAHUU0Tbs1Y-3Uc/edit#slide=id.g1471367b7b0_0_124" %}
+
+
+
+## &#x20;  

@@ -192,6 +192,235 @@
 
 {% embed url="https://www.youtube.com/watch?v=2i620IPXL_0" %}
 
+### \[F9] SWARM IdeaFest: PeakChain
+
+{% embed url="https://www.youtube.com/watch?v=N97aXTeqeYs" %}
+
+### \[F9] SWARM IdeaFest: Layer 2 Advanced Architecture
+
+{% embed url="https://www.youtube.com/watch?v=aRAWvjvs4ww" %}
+
+### \[F9] SWARM IdeaFest: Goguenheim Renaissance on Cardano
+
+{% embed url="https://www.youtube.com/watch?v=y2k1-NXJt54" %}
+
+### \[F9] SWARM IdeaFest: Clarity DAO Infrastructure
+
+{% embed url="https://www.youtube.com/watch?v=YPib7KAYT-8" %}
+
+### \[F9] SWARM IdeaFest: Vaccines and Family Medical Record
+
+{% embed url="https://www.youtube.com/watch?v=wyvc3M8gVnI" %}
+
+### \[F9] SWARM IdeaFest: Harvesting AirWater for Agriculture
+
+{% embed url="https://www.youtube.com/watch?v=Vc3y8WfenhM" %}
+
+{% embed url="https://www.youtube.com/watch?v=dNiY2xGqG-o" %}
+
+### \[F9] SWARM IdeaFest: Enable any webapps to use PRISM
+
+{% embed url="https://www.youtube.com/watch?v=dNiY2xGqG-o" %}
+
+### PeakChain Connected Cars
+
+{% embed url="https://www.youtube.com/watch?v=4XSwsL4FKEo" %}
+
+### \[F9] SWARM IdeaFest: Token Staking Platform
+
+{% embed url="https://www.youtube.com/watch?v=nOAa5c7UdG8" %}
+
+### \[F9] SWARM Ideafest: Help2HEALTH ramping Up +2B People!
+
+{% embed url="https://www.youtube.com/watch?v=fb5qteELRhE" %}
+
+### \[F9] SWARM IdeaFest: Model ICT Hub
+
+{% embed url="https://www.youtube.com/watch?v=DQb_DERUUK0" %}
+
+### \[F9] SWARM IdeaFest: C4S- Cardano4Seniors Animation
+
+{% embed url="https://www.youtube.com/watch?v=Ohg2lyUIS3M" %}
+
+### \[F9] SWARM IdeaFest: An open source book on cardano
+
+{% embed url="https://www.youtube.com/watch?v=r2IKdsoi0CQ" %}
+
+### \[F9] SWARM IdeaFest: GIMBALABS TREASURY FOR TUTORS
+
+{% embed url="https://www.youtube.com/watch?v=_k8xXg5oJzQ" %}
+
+### \[F9] SWARM IdeaFest: Plutarch 2 0
+
+{% embed url="https://www.youtube.com/watch?v=anAZCJPgWoY" %}
+
+### \[F9] SWARM IdeaFest: Tent: Let's make NFT Trading Better!
+
+{% embed url="https://www.youtube.com/watch?v=85fjdua8K-Q" %}
+
+### \[F9] SWARM Ideafest: KYC Registry Network
+
+{% embed url="https://www.youtube.com/watch?v=pNn2vMgx6CA" %}
+
+### \[F9] SWARM IdeaFest: Web3 Legal Services Portal
+
+{% embed url="https://www.youtube.com/watch?v=s99oPbFawys" %}
+
+### \[F9] SWARM IdeaFest: Blockchain Surveys for DAOs & More
+
+{% embed url="https://www.youtube.com/watch?v=A4fj6LAKS1I" %}
+
+### \[F9] SWARM IdeaFest: African Journalists - AJEOT 2022
+
+{% embed url="https://www.youtube.com/watch?v=F1r9qlUIjiY" %}
+
+### \[F9] SWARM IdeaFest: 500+ ₳Community Sent to Conferences
+
+{% embed url="https://www.youtube.com/watch?v=Zup-eH6QFe8" %}
+
+### \[F9] SWARM IdeaFest: CarPool Onboard & Learning Platform
+
+{% embed url="https://www.youtube.com/watch?v=mtrE4TnkM3g" %}
+
+### \[F9] SWARM Ideafest: CardanoPress
+
+{% embed url="https://www.youtube.com/watch?v=wTDSWeCWWVk" %}
+
+### \[F9] SWARM Ideafest: dMAH dMetaverse Auction House
+
+{% embed url="https://www.youtube.com/watch?v=-JEWkQCGMqA" %}
+
+### \[F9] SWARM IdeaFest: Catalyst Events 4 Vietnam Students
+
+{% embed url="https://www.youtube.com/watch?v=ScfYx3XBljI" %}
+
+### \[F9] SWARM IdeaFest: Increase Cardano peer review papers
+
+{% embed url="https://www.youtube.com/watch?v=Qjy1dIMTxVM" %}
+
+### \[F9] SWARM IdeaFest: everCrypt DAO|Basic Income Protocol
+
+{% embed url="https://www.youtube.com/watch?v=Gu846xDHTbo" %}
+
+### \[F9] SWARM Ideafest: Chatbot AI for Project Catalyst
+
+{% embed url="https://www.youtube.com/watch?v=cbhX_fjgdDI" %}
+
+### \[F9] SWARM Ideafest: EternalSwap & Apropos
+
+{% embed url="https://www.youtube.com/watch?v=GSI2-xpxXsc" %}
+
+### \[F9] SWARM Ideafest: Cardano Africa SmartFarming DApp
+
+{% embed url="https://www.youtube.com/watch?v=i7XylkUticU" %}
+
+### \[F9] SWARM IdeaFest: Catalyst Streaming Guild
+
+{% embed url="https://www.youtube.com/watch?v=wXOKSBFmH00" %}
+
+### \[F9] SWARM Ideafest: WALLET ADD ONS FOR GAME ENGINE
+
+{% embed url="https://www.youtube.com/watch?v=Q3KExjPTAy8" %}
+
+### F9 SWARM Ideafest: Driving Adoption via Travel D'Apps
+
+{% embed url="https://www.youtube.com/watch?v=biRl5mWpU1Y" %}
+
+### F9 SWARM Ideafest: DADF - Disruptive Comm Application
+
+{% embed url="https://www.youtube.com/watch?v=hWgiavdLjMo" %}
+
+### \[F9] SWARM Ideafest: CNFT Marketplace for 3D materials
+
+{% embed url="https://www.youtube.com/watch?v=oEyvYfl3EfA" %}
+
+### \[F9] SWARM Ideafest: Accountants & Lawyers for Cardano
+
+{% embed url="https://www.youtube.com/watch?v=eInQwQPX9UE" %}
+
+### \[F9] SWARM Ideafest: Wolfram UTXO Collaboration
+
+{% embed url="https://www.youtube.com/watch?v=ZcFWgX9hejE" %}
+
+### \[F9] SWARM Ideafest: Citizen Assemblies for Democracy
+
+{% embed url="https://www.youtube.com/watch?v=dHkyw0H10Gk" %}
+
+\
+
+
+\
+\
+\
+\
+\
+\
+
+
+
+
+
+
+\
+
+
+
+
+\
+\
+\
+\
+\
+
+
+\
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
+\
+
+
+\
+\
+
+
+\
+\
+\
+
+
+
+
+\
+
+
+###
+
+### &#x20;  
+
+\
+
+
+\
+
+
+\
+
+
+\
+
+
 \
 \
 \

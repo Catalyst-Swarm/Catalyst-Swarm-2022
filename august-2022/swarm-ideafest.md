@@ -346,6 +346,50 @@
 
 {% embed url="https://www.youtube.com/watch?v=dHkyw0H10Gk" %}
 
+### \[F9] SWARM Ideafest: Oxford crypto valley Cardano house
+
+{% embed url="https://www.youtube.com/watch?v=Czb36T9HLs4" %}
+
+### \[F9] SWARM Ideafest: SaaS3Permissionless Oracle Network
+
+{% embed url="https://www.youtube.com/watch?v=eDumO22PZ8s" %}
+
+### \[F9] SWARM Ideafest: Haskell Integration in Wolfram Tech
+
+{% embed url="https://www.youtube.com/watch?v=6JIxVYQrGqk" %}
+
+### \[F9] SWARM Ideafest: Dolos Cardano Data Node
+
+{% embed url="https://www.youtube.com/watch?v=Oko-Fla5PSE" %}
+
+### \[F9] SWARM Ideafest: NFT Fractionalization System
+
+{% embed url="https://www.youtube.com/watch?v=g22ra7eHvVw" %}
+
+### \[F9] SWARM Ideafest: LearnerShape SkillsGraph v2
+
+{% embed url="https://www.youtube.com/watch?v=Gf2XXX0xM9w" %}
+
+### \[F9] SWARM Ideafest: Instant Financial Data Application
+
+{% embed url="https://www.youtube.com/watch?v=q-anxZk-otQ" %}
+
+### \[F9] SWARM Ideafest: Imani Web3 Legal Services Portal
+
+{% embed url="https://www.youtube.com/watch?v=PjOF2PjfqAU" %}
+
+### \[F9] SWARM Ideafest: Funding Categories Full Fund
+
+{% embed url="https://www.youtube.com/watch?v=raP-96nVAOY" %}
+
+\
+\
+\
+\
+\
+\
+\
+\
 \
 
 

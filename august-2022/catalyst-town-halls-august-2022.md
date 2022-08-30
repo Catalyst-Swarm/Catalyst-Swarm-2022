@@ -34,6 +34,12 @@ Connecting Cardano with the fastest growing industry in the world - Legal Cannab
 
 Building upon cardano's formal foundations, let's have a practical look at how we can transition from law in the analog space to law in the digital space - considering how it takes shape across industries, geographies and cultures.
 
+### Building Sustainable Business on Cardano
+
+{% embed url="https://www.youtube.com/watch?v=WyNWe9e40OM" %}
+
+Join the DripDropz team as we discuss sustainable business practices on Cardano and Project Catalyst. Share your business ideas and discuss avenues of profitability and sustainability.
+
 ## 10th August 2022
 
 {% embed url="https://www.youtube.com/watch?v=L2i8vhvT480" %}
@@ -76,6 +82,19 @@ Recurring Breakout Room, no description provided by host.
 
 {% embed url="https://docs.google.com/presentation/d/1tD90QQORuVkSBstdfagjm0P1HZftpAHUU0Tbs1Y-3Uc/edit#slide=id.g1471367b7b0_0_124" %}
 
+## Breakout rooms
+
+### EMURGO Academy and the future of global Cardano adoption
+
+{% embed url="https://www.youtube.com/watch?v=aV7mjuGltOc" %}
+
+EMURGO Academy and the Future of Cardano's Global Adoption.
+
+### TANGENT Dashboard Walk-through
+
+{% embed url="https://www.youtube.com/watch?v=PjrzGO1GiLk" %}
+
+Walk-through and progress update of the Tangent NFT Launchpad and NFT Farming apps. Feedback is welcome! We are now accepting applications from projects and creators who want to be the first to have their own custom farming pools featured on the dashboard.\
 
 
 ## &#x20;  

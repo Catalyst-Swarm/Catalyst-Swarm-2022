@@ -94,7 +94,18 @@ EMURGO Academy and the Future of Cardano's Global Adoption.
 
 {% embed url="https://www.youtube.com/watch?v=PjrzGO1GiLk" %}
 
-Walk-through and progress update of the Tangent NFT Launchpad and NFT Farming apps. Feedback is welcome! We are now accepting applications from projects and creators who want to be the first to have their own custom farming pools featured on the dashboard.\
+Walk-through and progress update of the Tangent NFT Launchpad and NFT Farming apps. Feedback is welcome! We are now accepting applications from projects and creators who want to be the first to have their own custom farming pools featured on the dashboard.
 
+## 31th August 2022
+
+{% embed url="https://www.youtube.com/watch?v=u1BRH7YQqWI" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1aL3uRjBjezYMZvCie4V6jOJjc1FZblkCF5ukhoSULOs/edit#slide=id.g130a93bb4b3_0_4275" %}
+
+##
+
+## &#x20;
 
 ## &#x20;  

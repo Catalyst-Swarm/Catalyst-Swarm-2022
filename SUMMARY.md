@@ -2,6 +2,7 @@
 
 * [Catalyst Swarm 2022](README.md)
 * [Explore & Connect](explore-and-connect.md)
+* [Letters & Thoughts](letters-and-thoughts.md)
 * [Events](events.md)
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)

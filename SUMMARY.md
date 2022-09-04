@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Catalyst Swarm 2022](README.md)
+* [Miscellaneous content](miscellaneous-content.md)
 * [Explore & Connect](explore-and-connect.md)
 * [Letters & Thoughts](letters-and-thoughts.md)
 * [Events](events.md)

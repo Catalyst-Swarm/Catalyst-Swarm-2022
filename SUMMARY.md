@@ -8,6 +8,10 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## SEPTEMBER 2022
+
+* [Catalyst Town Halls - September 2022](september-2022/catalyst-town-halls-september-2022.md)
+
 ## AUGUST 2022
 
 * [Community Governance Oversight](august-2022/community-governance-oversight.md)

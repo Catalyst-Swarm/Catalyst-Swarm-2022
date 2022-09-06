@@ -11,6 +11,7 @@
 ## SEPTEMBER 2022
 
 * [Catalyst Town Halls - September 2022](september-2022/catalyst-town-halls-september-2022.md)
+* [Swarm Sessions - September 2022](september-2022/swarm-sessions-september-2022.md)
 
 ## AUGUST 2022
 

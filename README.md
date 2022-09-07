@@ -6,6 +6,14 @@ coverY: 0
 
 # Catalyst Swarm 2022
 
+## Check out our final report
+
+{% embed url="https://youtu.be/n7EoXF6miv4" %}
+
+{% content-ref url="fund-7-reporting/f7-final-report.md" %}
+[f7-final-report.md](fund-7-reporting/f7-final-report.md)
+{% endcontent-ref %}
+
 ## Catalyst Swarm Website
 
 For the latest news and how to get involved check out the [Catalyst Swarm Website](https://catalystswarm.com) including :

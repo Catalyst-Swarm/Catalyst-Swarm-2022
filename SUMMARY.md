@@ -61,5 +61,6 @@
 
 ## Fund 7 Reporting
 
+* [F7 Final Report](fund-7-reporting/f7-final-report.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Monthly Reports](fund-7-reporting/monthly-reports.md)

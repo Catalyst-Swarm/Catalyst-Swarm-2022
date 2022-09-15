@@ -104,7 +104,14 @@ Walk-through and progress update of the Tangent NFT Launchpad and NFT Farming ap
 
 {% embed url="https://docs.google.com/presentation/d/1aL3uRjBjezYMZvCie4V6jOJjc1FZblkCF5ukhoSULOs/edit#slide=id.g130a93bb4b3_0_4275" %}
 
-##
+## Breakout rooms&#x20;
+
+### Cardano NFT Alliance - August 31, 2022
+
+{% embed url="https://www.youtube.com/watch?v=IuT3uncFurQ" %}
+
+\
+
 
 ## &#x20;
 

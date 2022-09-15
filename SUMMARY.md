@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Catalyst Swarm 2022](README.md)
-* [Miscellaneous content](miscellaneous-content.md)
 * [Explore & Connect](explore-and-connect.md)
 * [Letters & Thoughts](letters-and-thoughts.md)
 * [Events](events.md)
@@ -10,6 +9,7 @@
 
 ## SEPTEMBER 2022
 
+* [Miscellaneous content](september-2022/miscellaneous-content.md)
 * [Catalyst Town Halls - September 2022](september-2022/catalyst-town-halls-september-2022.md)
 * [Swarm Sessions - September 2022](september-2022/swarm-sessions-september-2022.md)
 
@@ -18,6 +18,7 @@
 * [Community Governance Oversight](august-2022/community-governance-oversight.md)
 * [Swarm Ideafest](august-2022/swarm-ideafest.md)
 * [Swarm Sessions - August 2022](august-2022/swarm-sessions-august-2022.md)
+* [Miscellaneous content](august-2022/miscellaneous-content.md)
 * [Catalyst Town Halls - August 2022](august-2022/catalyst-town-halls-august-2022.md)
 
 ## JULY 2022

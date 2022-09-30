@@ -60,3 +60,10 @@ Join the DripDropz team as we discuss different governance methods for projects 
 
 {% embed url="https://docs.google.com/presentation/d/1KaIStO1Pdb8ByGP31lVuNzBd588_-4CJLDoySZ5_IgE/edit#slide=id.g130a93bb4b3_0_4275" %}
 
+## Breakout rooms
+
+### Breakout Rooms Announcements
+
+{% embed url="https://www.youtube.com/watch?v=wP2e26IW2Ks" %}
+
+###

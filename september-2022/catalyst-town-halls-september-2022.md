@@ -52,4 +52,11 @@ Join the DripDropz team as we discuss different governance methods for projects 
 
 {% embed url="https://www.youtube.com/watch?v=K5WYVk4bLKI" %}
 
-\
+## 28th September 2022
+
+{% embed url="https://www.youtube.com/watch?v=r2BqZ9ZEU8w" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1KaIStO1Pdb8ByGP31lVuNzBd588_-4CJLDoySZ5_IgE/edit#slide=id.g130a93bb4b3_0_4275" %}
+

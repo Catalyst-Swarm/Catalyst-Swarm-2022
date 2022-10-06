@@ -7,6 +7,12 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## October
+
+* [Miscellaneous content](october/miscellaneous-content.md)
+* [Catalyst Town Halls - October 2022](october/catalyst-town-halls-october-2022.md)
+* [Swarm Sessions - October 2022](october/swarm-sessions-october-2022.md)
+
 ## SEPTEMBER 2022
 
 * [Miscellaneous content](september-2022/miscellaneous-content.md)

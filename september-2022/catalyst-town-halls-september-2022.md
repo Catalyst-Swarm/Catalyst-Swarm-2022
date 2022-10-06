@@ -52,6 +52,12 @@ Join the DripDropz team as we discuss different governance methods for projects 
 
 {% embed url="https://www.youtube.com/watch?v=K5WYVk4bLKI" %}
 
+### Communication Catastrophes w/ DripDropz
+
+{% embed url="https://www.youtube.com/watch?t=2s&v=tz5d40YaP_4" %}
+
+Join the DripDropz team as we talk about the conundrums of public communication in a transparent, permissionless economy. All are welcome to this open forum discussion.
+
 ## 28th September 2022
 
 {% embed url="https://www.youtube.com/watch?v=r2BqZ9ZEU8w" %}

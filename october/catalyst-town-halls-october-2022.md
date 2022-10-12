@@ -18,4 +18,12 @@
 
 {% embed url="https://www.youtube.com/watch?v=ikVJEjefFNI" %}
 
+## 12th October 2022
+
+{% embed url="https://www.youtube.com/watch?v=P67YFdGedQ4" %}
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1yJkaP2dfA31ObJO6KxRNvP128EdM4osgT6g_LLbCzcM/edit#slide=id.g166d1786b11_0_265" %}
+
 \

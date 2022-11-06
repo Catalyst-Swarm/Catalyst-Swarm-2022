@@ -7,6 +7,10 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
+## NOVEMBER
+
+* [Cardano Catalyst Circle Townhall](november/cardano-catalyst-circle-townhall.md)
+
 ## October
 
 * [Miscellaneous content](october/miscellaneous-content.md)

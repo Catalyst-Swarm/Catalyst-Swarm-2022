@@ -10,6 +10,7 @@
 ## NOVEMBER
 
 * [Cardano Catalyst Circle Townhall](november/cardano-catalyst-circle-townhall.md)
+* [Catalyst Town Halls - November 2022](november/catalyst-town-halls-november-2022.md)
 
 ## October
 

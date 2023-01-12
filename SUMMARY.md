@@ -7,20 +7,20 @@
 * [Community Catalyser Rewards](community-catalyser-rewards/README.md)
   * [Felix's Rewards](community-catalyser-rewards/felixs-rewards.md)
 
-## DECEMBER
+## DECEMBER 2022
 
-* [Catalyst Town Halls - December 2022](december/catalyst-town-halls-december-2022.md)
+* [Catalyst Town Halls - December 2022](december-2022/catalyst-town-halls-december-2022.md)
 
-## NOVEMBER
+## NOVEMBER 2022
 
-* [Cardano Catalyst Circle Townhall](november/cardano-catalyst-circle-townhall.md)
-* [Catalyst Town Halls - November 2022](november/catalyst-town-halls-november-2022.md)
+* [Cardano Catalyst Circle Townhall](november-2022/cardano-catalyst-circle-townhall.md)
+* [Catalyst Town Halls - November 2022](november-2022/catalyst-town-halls-november-2022.md)
 
-## October
+## October 2022
 
-* [Miscellaneous content](october/miscellaneous-content.md)
-* [Catalyst Town Halls - October 2022](october/catalyst-town-halls-october-2022.md)
-* [Swarm Sessions - October 2022](october/swarm-sessions-october-2022.md)
+* [Miscellaneous content](october-2022/miscellaneous-content.md)
+* [Catalyst Town Halls - October 2022](october-2022/catalyst-town-halls-october-2022.md)
+* [Swarm Sessions - October 2022](october-2022/swarm-sessions-october-2022.md)
 
 ## SEPTEMBER 2022
 
